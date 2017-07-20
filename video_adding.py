@@ -36,16 +36,15 @@ VIDEOURL = 4
 VIDEONAME = 5
 
 
-
-global path
-path = "course"
-
+PATH = "course"
+EXCELNAME = "video_list.xlsm"
+wb = xlrd.open_workbook(EXCELNAME)
 #export_path = ""
 """
 hardcoded xlsmpath must change to a parameter
 """
-xlsmPath = "video_list.xlsm"
-wb = xlrd.open_workbook(xlsmPath)
+
+
 
 
 def create_directory_tree():
@@ -218,18 +217,26 @@ def make_tarfile():
 
 
 
-def generate_Edx():
+def main():
 	'''
 	Main script makes the calls in order to clean the resulting thir and after that generate that dir and the targz
 	that we will use to import the course
 	'''
-	create_directory_tree()
-	remove_existing_seq_video_link()
-	read_video_and_link_mapping()
-	video_component()
+	##create_directory_tree()
+	#remove_existing_seq_video_link()
+	#read_video_and_link_mapping()
+	#video_component()
 	
-	make_tarfile()
+	#make_tarfile()
 
 
 
-generate_Edx()
+
+
+
+if __name__ == '__main__':
+	try:
+		main()
+	except KeyboardInterrupt:
+		logging.warn("\n\nCTRL-C detected, shutting down....")
+		sys.exit(ExitCode.OK)
