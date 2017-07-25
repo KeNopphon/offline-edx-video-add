@@ -1,9 +1,0 @@
-<problem display_name="伝統的な責任モデル" markdown="伝統的な責任モデルに関して、空欄に適切な単語を入れなさい。&#10;&#10;｢Professionと社会との契約｣モデル（欧米の技術者協会）&#10;｢【　　　】｣モデル（Martin and Shinzinger)&#10;｢相互依存性｣モデル（札野）&#10;&#10;=社会実験&#10;" max_attempts="1" weight="1.0">
-  <stringresponse answer="社会実験" type="ci">
-    <p>伝統的な責任モデルに関して、空欄に適切な単語を入れなさい。</p>
-    <p>｢Professionと社会との契約｣モデル（欧米の技術者協会）</p>
-    <p>｢【　　　】｣モデル（Martin and Shinzinger)</p>
-    <p>｢相互依存性｣モデル（札野）</p>
-    <textline size="20"/>
-  </stringresponse>
-</problem>
