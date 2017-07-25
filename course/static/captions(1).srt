@@ -1,0 +1,296 @@
+1
+00:00:04,260 --> 00:00:08,180
+The Seven Step Guide - 1
+
+2
+00:00:10,720 --> 00:00:13,276
+We have already discussed about
+
+3
+00:00:13,276 --> 00:00:17,429
+the ethical issues and the analogy of various problems.
+
+4
+00:00:17,429 --> 00:00:24,469
+With regard to the ethical issues, there is often no single correct solution like there is in Science.
+
+5
+00:00:24,469 --> 00:00:28,880
+Also, we have made sure that there is need for designing the action.
+
+6
+00:00:29,660 --> 00:00:35,960
+We now will study how you can setup your ethical design action plan.
+
+7
+00:00:35,960 --> 00:00:40,064
+Because we will talk about the specific methods of decision-making and so
+
+8
+00:00:40,064 --> 00:00:45,440
+we will be presenting case-studies later in this module.
+
+9
+00:00:45,600 --> 00:00:53,420
+To make the most out of this learning experiences, please be sure to put yourself in the shoes of persons presented in these cases.
+
+10
+00:00:53,920 --> 00:01:00,220
+Or, for those people who are currently facing ethical issues,
+
+11
+00:01:00,260 --> 00:01:08,680
+this is a great opportunity for you to think about ways to solve the issues.
+
+12
+00:01:08,760 --> 00:01:14,720
+By the way, Prof. Fudano, if there is no one absolute answer as for ethical issues;
+
+13
+00:01:14,720 --> 00:01:20,680
+does this mean that there is nothing scientists/engineers can rely upon when making ethical decisions?
+
+14
+00:01:20,740 --> 00:01:26,320
+Moreover, some people might think that there is no point of thinking about it at all.
+
+15
+00:01:26,380 --> 00:01:29,900
+I understand where you are coming from.
+
+16
+00:01:29,900 --> 00:01:36,640
+When it comes to ethical issues, there is no one correct solution as for subjects like Mathematics.
+
+17
+00:01:36,640 --> 00:01:42,920
+Even if that is the case, we should be able to point out actions that are ethically reasonable, and,
+
+18
+00:01:42,920 --> 00:01:50,780
+there are various ways that have been presented to solve ethical issues.
+
+19
+00:01:50,860 --> 00:01:57,260
+In the textbook on engineering ethics, for example, sometimes there is a middle
+
+20
+00:01:57,380 --> 00:02:07,700
+road/route that can be taken. For example, the seven step guide will be introduced.
+
+21
+00:02:07,700 --> 00:02:15,220
+When people face ethical issues,
+
+22
+00:02:15,229 --> 00:02:21,580
+this method has been implemented in many instances.
+
+23
+00:02:21,740 --> 00:02:26,860
+In addition - this method is considered to be easy to accept, for scientists and engineers.
+
+24
+00:02:26,980 --> 00:02:35,480
+This method, "Seven-step Guide to Ethical Decision-making" was proposed by Prof. Michael Davis at the Illinois Institute of Technology.
+
+25
+00:02:35,500 --> 00:02:41,660
+We will be making a slight change to his Seven-step guide in this module;
+
+26
+00:02:41,700 --> 00:02:50,860
+we will be using the "KIT version," which was first developed by the Kanazawa Institute of Technology (KIT).
+
+27
+00:02:50,980 --> 00:02:55,437
+Please take a look at your worksheet.
+
+28
+00:02:55,437 --> 00:02:58,781
+This is the Seven-step Guide.
+
+29
+00:02:58,781 --> 00:03:04,416
+The very first step, step 0, is to
+
+30
+00:03:04,420 --> 00:03:18,860
+put yourself into the shoes of the person facing ethical issues and imagine what you would do if you were s/he.
+
+31
+00:03:19,020 --> 00:03:23,260
+Once you complete step 0,
+
+32
+00:03:23,260 --> 00:03:30,540
+to clearly state the ethical problem, is step 1.
+
+33
+00:03:30,700 --> 00:03:42,960
+In this step, you should be thinking and stating obstacles that s/he faces regarding the ethical issues.
+
+34
+00:03:43,000 --> 00:03:47,600
+It is important for you to write down the problem in words.
+
+35
+00:03:47,660 --> 00:03:52,820
+Step 2 is to identify the facts.
+
+36
+00:03:52,860 --> 00:04:05,140
+Organizing/reviewing the facts allows you to clarify and avoid assumptions/biases you could possibly have.
+
+37
+00:04:05,660 --> 00:04:15,800
+You should be thinking about the facts, unclear items, or things that have not been mentioned.
+
+38
+00:04:16,000 --> 00:04:21,360
+Also - take a look at laws that are relevant to the issues at hand.
+
+39
+00:04:21,600 --> 00:04:32,760
+It can be helpful to take a look at code of ethics of academic societies that are relevant to the issues.
+
+40
+00:04:32,880 --> 00:04:38,380
+Often the solution may become clear when the central question is
+
+41
+00:04:38,390 --> 00:04:42,380
+reframed based upon facts and taking a birds-eye viewpoint.
+
+42
+00:04:42,380 --> 00:04:48,480
+Step 3 is to identify the stakeholders and their values, etc.
+
+43
+00:04:48,620 --> 00:04:57,720
+What I mean by "stakeholders" are the people, who will be affected by actions taken, or those people who will affect the actions taken.
+
+44
+00:04:57,880 --> 00:05:02,940
+It is important for you to consider potential stakeholders you might have in this issue.
+
+45
+00:05:03,040 --> 00:05:09,180
+You will also need to consider the values that matters to these stakeholders.
+
+46
+00:05:09,240 --> 00:05:22,580
+Looking at step 1 again,  you will also need to see the issue based upon values in Step 3.
+
+47
+00:05:22,780 --> 00:05:30,800
+It is not important to try to distinguish Step 2 and Step 3 at this point.
+
+48
+00:05:30,960 --> 00:05:40,260
+You can go back and forth between the steps and try to evaluate the facts and relevant issues.
+
+49
+00:05:40,380 --> 00:05:50,460
+Also you might want to go back and forth between the Step 2 and Step 3, you can also re-consider Step 1.
+
+50
+00:05:50,460 --> 00:05:59,160
+There is no need for you to complete the steps in chronological order.
+
+51
+00:05:59,240 --> 00:06:06,880
+After you organize the facts and stakeholders and values, the next step is Step 4.
+
+52
+00:06:07,000 --> 00:06:13,300
+In this step, you should list options (they should be as concrete as possible).
+
+53
+00:06:13,300 --> 00:06:19,340
+Rather than just trying to come up with alternatives
+
+54
+00:06:19,340 --> 00:06:35,600
+gather information you have built thus far, and think about ways to consult (when, to whom) as specific as you can at this point.
+
+55
+00:06:35,760 --> 00:06:42,700
+You should be coming up with this process as specific as you can, in this step, Step 4.
+
+56
+00:06:42,820 --> 00:06:49,180
+Prof. Michael Davis recommends to come up with at least five different scenarios at this stage.
+
+57
+00:06:49,380 --> 00:06:55,900
+In your worksheet though; please come up with at least four different approaches.
+
+58
+00:06:55,900 --> 00:07:09,680
+Please evaluate options using "ethical tests" in Step 5.
+
+59
+00:07:09,680 --> 00:07:21,240
+I will be explaining to you in detail ethical tests later though; you should be examining the ethical validity of actions through the ethics tests.
+
+60
+00:07:21,340 --> 00:07:34,580
+For instance, reversibility (golden rule) test, universalizability test and related tests.
+
+61
+00:07:34,680 --> 00:07:41,120
+In addition, there is a test that is examined by a group of experts.
+
+62
+00:07:41,280 --> 00:07:49,640
+There are the tests that can be used as a tool to examine actions.
+
+63
+00:07:49,800 --> 00:08:05,840
+You should be making a decision based upon the actions to be undertaken and  reviewing Steps 1 through 5, in Step 6.
+
+64
+00:08:06,000 --> 00:08:09,160
+Based on the evaluation made using the ethical tests in Step 5,
+
+65
+00:08:09,160 --> 00:08:14,360
+you should be coming up with an action you would want to take.
+
+66
+00:08:14,460 --> 00:08:23,580
+It is fine even if the action you have come up with results from a combination of the steps above,
+
+67
+00:08:23,680 --> 00:08:33,360
+as long as you can explain your approach to experts, is Step 6.
+
+68
+00:08:33,440 --> 00:08:43,240
+Now that the action plan is complete, you might think you are done, however, the next step is Step 7, which is quite important.
+
+69
+00:08:43,380 --> 00:08:59,260
+In Step 7, you should be re-examinning the steps outlined in Steps 1 through 6, thinking about what policies should be undertaken in order to avoid the same ethical problem again and consider how to improve the situation.
+
+70
+00:08:59,400 --> 00:09:14,060
+Sometimes a problem faced by an individual should be looked at from an organization level, the meso level. This is step 7.
+
+71
+00:09:14,080 --> 00:09:18,580
+I see. It's very specific and a practical approach.
+
+72
+00:09:18,580 --> 00:09:22,740
+Now that we understand the guide,
+
+73
+00:09:22,740 --> 00:09:29,980
+we will be explaining each step in detail using a mini case study approach.
+
+74
+00:09:30,140 --> 00:09:31,360
+Let's do that.
+

@@ -1,0 +1,14 @@
+<problem display_name="ホンダのエンジン開発における価値" markdown="1960年代のホンダのエンジン開発における価値はどのように変化したか。もっともふさわしいものを選びなさい。&#10;&#10;( )&#9;環境からスピードへ&#10;( )&#9;低価格から環境へ&#10;(x)&#9;スピードから環境へ&#10;( )&#9;強さからデザイン性へ&#10;||1960年代の日本では公害が問題になっていた。 video 1 03:19||&#10;&#10;">
+  <multiplechoiceresponse>
+    <p>1960年代のホンダのエンジン開発における価値はどのように変化したか。もっともふさわしいものを選びなさい。</p>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">環境からスピードへ</choice>
+      <choice correct="false">低価格から環境へ</choice>
+      <choice correct="true">スピードから環境へ</choice>
+      <choice correct="false">強さからデザイン性へ</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>1960年代の日本では公害が問題になっていた。 video 1 03:19</hint>
+  </demandhint>
+</problem>

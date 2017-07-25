@@ -1,0 +1,107 @@
+<problem display_name="Quiz1" markdown="セブン・ステップ・ガイドを並び替えよ。&#10;ステップ0. &#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;自分の行動方針を決定せよ。&#10;事実関係を整理せよ。&#10;再発防止に向けた対策を検討する。&#10;倫理的観点から行動案を評価せよ。&#10;(自分が当事者としてとるであろう行動を想像してみる。)&#10;複数の行動案を具体的に考えてみよ。&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;ステップ1.&#10;[[&#10;(当事者の立場から、直面している問題を表現してみよ。)&#10;自分の行動方針を決定せよ。&#10;事実関係を整理せよ。&#10;再発防止に向けた対策を検討する。&#10;倫理的観点から行動案を評価せよ。&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;複数の行動案を具体的に考えてみよ。&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;&#10;ステップ2.&#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;自分の行動方針を決定せよ。&#10;(事実関係を整理せよ。)&#10;再発防止に向けた対策を検討する。&#10;倫理的観点から行動案を評価せよ。&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;複数の行動案を具体的に考えてみよ。&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;ステップ3.&#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;自分の行動方針を決定せよ。&#10;事実関係を整理せよ。&#10;再発防止に向けた対策を検討する。&#10;倫理的観点から行動案を評価せよ。&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;複数の行動案を具体的に考えてみよ。&#10;(ステークホルダーと価値を整理せよ。)&#10;]]&#10;&#10;ステップ4.&#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;自分の行動方針を決定せよ。&#10;事実関係を整理せよ。&#10;再発防止に向けた対策を検討する。&#10;倫理的観点から行動案を評価せよ。&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;(複数の行動案を具体的に考えてみよ。)&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;ステップ5.&#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;自分の行動方針を決定せよ。&#10;事実関係を整理せよ。&#10;再発防止に向けた対策を検討する。&#10;(倫理的観点から行動案を評価せよ。)&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;複数の行動案を具体的に考えてみよ。&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;ステップ6.&#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;(自分の行動方針を決定せよ。)&#10;事実関係を整理せよ。&#10;再発防止に向けた対策を検討する。&#10;倫理的観点から行動案を評価せよ。&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;複数の行動案を具体的に考えてみよ。&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;&#10;ステップ7.&#10;[[&#10;当事者の立場から、直面している問題を表現してみよ。&#10;自分の行動方針を決定せよ。&#10;事実関係を整理せよ。&#10;(再発防止に向けた対策を検討する。)&#10;倫理的観点から行動案を評価せよ。&#10;自分が当事者としてとるであろう行動を想像してみる。&#10;複数の行動案を具体的に考えてみよ。&#10;ステークホルダーと価値を整理せよ。&#10;]]&#10;&#10;&#10;" max_attempts="1" weight="8.0">
+  <p>セブン・ステップ・ガイドを並び替えよ。</p>
+  <p>ステップ0. </p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="True">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ1.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="True">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ2.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="True">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ3.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="True">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ4.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="True">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ5.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="True">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ6.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="True">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="False">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+  <p>ステップ7.</p>
+  <optionresponse>
+    <optioninput>
+      <option correct="False">当事者の立場から、直面している問題を表現してみよ。</option>
+      <option correct="False">自分の行動方針を決定せよ。</option>
+      <option correct="False">事実関係を整理せよ。</option>
+      <option correct="True">再発防止に向けた対策を検討する。</option>
+      <option correct="False">倫理的観点から行動案を評価せよ。</option>
+      <option correct="False">自分が当事者としてとるであろう行動を想像してみる。</option>
+      <option correct="False">複数の行動案を具体的に考えてみよ。</option>
+      <option correct="False">ステークホルダーと価値を整理せよ。</option>
+    </optioninput>
+  </optionresponse>
+</problem>

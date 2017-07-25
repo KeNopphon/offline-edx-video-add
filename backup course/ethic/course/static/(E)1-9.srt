@@ -1,0 +1,313 @@
+1
+00:00:11,380 --> 00:00:12,900
+Learning from examples of past failed case studies
+
+2
+00:00:12,900 --> 00:00:15,500
+we can Leverage the lessons learnt
+
+3
+00:00:15,500 --> 00:00:18,680
+to test our own ethical judgment.
+
+4
+00:00:18,680 --> 00:00:20,100
+Isn't that an important thing?
+
+5
+00:00:20,100 --> 00:00:23,430
+Yes, of course it is very important
+
+6
+00:00:23,430 --> 00:00:30,680
+If we say that until now, most cases are related to the
+ education of ethics
+
+7
+00:00:30,680 --> 00:00:32,960
+based on the happenings in the past
+
+8
+00:00:32,960 --> 00:00:34,840
+There were various scandals
+
+9
+00:00:34,840 --> 00:00:38,560
+and incidents that happened
+
+10
+00:00:38,560 --> 00:00:41,310
+When we decide, let's not do this 
+sort of thing
+
+11
+00:00:41,310 --> 00:00:44,780
+Let's decide not to do this sort of thing
+
+12
+00:00:44,780 --> 00:00:49,280
+There are many methods to emphasize
+
+13
+00:00:49,280 --> 00:00:51,560
+this in education
+
+14
+00:00:51,560 --> 00:00:58,460
+But then, in fact, it only looks at ethics from one point of view
+
+15
+00:00:58,460 --> 00:01:00,370
+that's what I believe is happening
+
+16
+00:01:00,370 --> 00:01:06,560
+As I mentioned at the beginning of today's lecture
+
+17
+00:01:06,560 --> 00:01:09,110
+things that must be done and things that must be protected
+
+18
+00:01:09,110 --> 00:01:12,759
+placing emphasis on these things
+
+19
+00:01:12,759 --> 00:01:14,729
+in order to ensure that incidents and
+
+20
+00:01:14,729 --> 00:01:16,590
+scandals do not happen.
+
+21
+00:01:16,590 --> 00:01:19,090
+This is what we normally
+
+22
+00:01:19,090 --> 00:01:22,740
+call preventive ethics.
+
+23
+00:01:22,740 --> 00:01:25,149
+This is certainly important.
+
+24
+00:01:25,149 --> 00:01:32,289
+This is certainly and surely required in ethics education
+
+25
+00:01:32,289 --> 00:01:33,689
+when we think about ethics.
+
+26
+00:01:33,689 --> 00:01:37,430
+This standpoint of preventive ethics is important.
+
+27
+00:01:37,430 --> 00:01:40,140
+Even in education, teaching preventive ethics
+
+28
+00:01:40,140 --> 00:01:42,639
+needs to be done properly.
+
+29
+00:01:42,639 --> 00:01:46,079
+Although this is certain
+
+30
+00:01:46,079 --> 00:01:49,759
+when considering the original meaning of ethics.
+
+31
+00:01:49,759 --> 00:01:53,060
+We come to the second half of this subject
+
+32
+00:01:53,060 --> 00:01:58,319
+let's discuss ethics more slowly
+
+33
+00:01:58,319 --> 00:02:03,319
+It is not about something that engineers must adhere to.
+
+34
+00:02:03,319 --> 00:02:05,999
+What can engineers do?
+
+35
+00:02:05,999 --> 00:02:10,250
+What is the good that can be done, 
+when we think in this way
+
+36
+00:02:10,250 --> 00:02:12,810
+This refers to aspirational ethics.
+
+37
+00:02:12,810 --> 00:02:14,240
+Aspirational ethics
+
+38
+00:02:14,240 --> 00:02:16,250
+as we would call it.
+
+39
+00:02:16,250 --> 00:02:22,760
+This is also another important aspect of ethics.
+
+40
+00:02:22,760 --> 00:02:24,440
+Even though I started talking about it earlier
+
+41
+00:02:24,440 --> 00:02:26,420
+when we talk about why this is so.
+
+42
+00:02:26,420 --> 00:02:30,170
+The original meaning of ethics is
+
+43
+00:02:30,170 --> 00:02:33,210
+to live well and to do things that allow us to live well
+
+44
+00:02:33,210 --> 00:02:35,910
+What kind of decision should we make 
+and how should we act?
+
+45
+00:02:35,910 --> 00:02:40,130
+Thinking in this way involves ethics
+
+46
+00:02:40,130 --> 00:02:46,170
+As I said before
+
+47
+00:02:46,170 --> 00:02:50,700
+preventive ethics emphasizes what should not be done.
+
+48
+00:02:50,700 --> 00:02:55,580
+For example, when we look at
+
+49
+00:02:55,580 --> 00:02:57,110
+the Code of Ethics from various educational bodies
+
+50
+00:02:57,110 --> 00:03:02,430
+according to certain statistics, for example in America
+
+51
+00:03:02,430 --> 00:03:04,170
+there is the
+
+52
+00:03:04,170 --> 00:03:05,690
+Professional Engineers Association.
+
+53
+00:03:05,690 --> 00:03:10,400
+The provisions of the code written in the Code of Ethics
+
+54
+00:03:10,400 --> 00:03:14,960
+80% of them are passive or prohibitions
+
+55
+00:03:14,960 --> 00:03:16,690
+these are the types of codes being used
+
+56
+00:03:16,690 --> 00:03:20,670
+that's what was reported.
+
+57
+00:03:20,670 --> 00:03:25,120
+But as I said earlier
+
+58
+00:03:25,120 --> 00:03:27,810
+when we return to the original meaning of ethics
+
+59
+00:03:27,810 --> 00:03:30,980
+it is about what we need to do in order to live well.
+
+60
+00:03:30,980 --> 00:03:35,930
+When we look at ethics from the viewpoint of 
+such intentions,
+
+61
+00:03:35,930 --> 00:03:38,890
+it is not about what engineers cannot do
+
+62
+00:03:38,890 --> 00:03:42,540
+but what we should aim to develop
+
+63
+00:03:42,540 --> 00:03:45,040
+or what a company should seek as their goals.
+
+64
+00:03:45,040 --> 00:03:46,900
+What needs to be developed or
+
+65
+00:03:46,900 --> 00:03:52,140
+how engineers and corporations should behave
+
+66
+00:03:52,140 --> 00:03:56,040
+also how to make better decisions and practices
+
+67
+00:03:56,040 --> 00:03:58,310
+with active intentions.
+
+68
+00:03:58,310 --> 00:04:03,200
+The existence of such ethics then surfaces.
+
+69
+00:04:03,200 --> 00:04:06,620
+This kind of intellectual act
+
+70
+00:04:06,620 --> 00:04:08,040
+as I mentioned earlier,
+
+71
+00:04:08,040 --> 00:04:12,210
+I call it “aspirational ethics"
+
+72
+00:04:12,210 --> 00:04:16,780
+Although there is such a subject
+
+73
+00:04:16,780 --> 00:04:19,940
+Of course, we must work on Preventive Ethics, but 
+
+74
+00:04:19,940 --> 00:04:23,509
+we should adopt the viewpoint of aspirational ethics.
+
+75
+00:04:23,509 --> 00:04:26,310
+This new type of ethics
+
+76
+00:04:26,310 --> 00:04:29,440
+is a subject on Science and Technology Ethics
+
+77
+00:04:29,440 --> 00:04:31,820
+I hope you can think about it this way.
+

@@ -1,0 +1,6 @@
+<problem display_name="Quiz3" markdown="null" max_attempts="1" weight="2.0">
+  <p>二つの倫理について、以下の表の空欄に当てはまる語を入力しなさい。</p>
+  <img src="/static/UnitQ3.png" height="350"/>
+  <p>1.  <stringresponse answer="志向倫理" type="ci"><textline size="20"/></stringresponse></p>
+  <p>2.  <stringresponse answer="予防倫理" type="ci"><textline size="20"/></stringresponse></p>
+</problem>

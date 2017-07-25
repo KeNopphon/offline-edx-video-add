@@ -1,0 +1,7 @@
+<vertical display_name="ユニットクイズ">
+  <problem url_name="77d264f6ff4a49bca34f1e603300f8ff"/>
+  <problem url_name="f43e067027ee4d64a34c397787bcdb74"/>
+  <problem url_name="f9105e14c6884e58adac1e8b3f2d212f"/>
+  <discussion url_name="be2e0d8796ae42f39496b7943da658ee" xblock-family="xblock.v1" discussion_target="1.&#9;自己紹介をしましょう。(ユーザー名、興味のある学問領域、このコースの受講理由など)" display_name="ディスカッション/Discussion"/>
+  <discussion url_name="0d5a4d7daa524d8aba83d87b19c2a37c" xblock-family="xblock.v1" discussion_target="1.&#9;1990年代に科学技術が社会に与えた影響の例を挙げなさい。なお、なぜそのように考えたのか、理由も述べなさい。" display_name="ディスカッション/Discussion"/>
+</vertical>

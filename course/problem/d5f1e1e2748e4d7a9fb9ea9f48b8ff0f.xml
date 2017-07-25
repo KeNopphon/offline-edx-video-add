@@ -1,0 +1,30 @@
+<problem display_name="C. WhitbeckによるFFPの定義" markdown="C. WhitbeckによるFFPの定義において、単語に対する正しい定義をそれぞれ選びなさい。&#10;1.&#9;捏造(Fabrication)&#10;&#10;( )「他の人の仕事あるいはアイディアを自分自身のものであると主張すること」&#10;(X)「研究を提案、実施、報告する際に、データや実験あるいはその他の重要な情報をでっち上げること」&#10;( )「データや実験あるいはその他の重要な情報、たとえば研究者の資格や業績などを変えたり偽ったりすること」&#10;2.&#9;改竄(Falsification)&#10;( )「他の人の仕事あるいはアイディアを自分自身のものであると主張すること」&#10;( )「研究を提案、実施、報告する際に、データや実験あるいはその他の重要な情報をでっち上げること」&#10;(X)「データや実験あるいはその他の重要な情報、たとえば研究者の資格や業績などを変えたり偽ったりすること」&#10;3.&#9;剽窃(Plagiarism)&#10;(X)「他の人の仕事あるいはアイディアを自分自身のものであると主張すること」&#10;( )「研究を提案、実施、報告する際に、データや実験あるいはその他の重要な情報をでっち上げること」&#10;( )「データや実験あるいはその他の重要な情報、たとえば研究者の資格や業績などを変えたり偽ったりすること」&#10;&#10;||捏造(Fabrication)：実験もしないのに実験をした。改竄(Falsification)：画像データのコントラストを変える。剽窃(Plagiarism)：他の研究者のアイディアを注釈なしに論文で勝手に使用する。(Video 4: 2:33)||">
+  <p>C. WhitbeckによるFFPの定義において、単語に対する正しい定義をそれぞれ選びなさい。</p>
+  <p>1.	捏造(Fabrication)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">「他の人の仕事あるいはアイディアを自分自身のものであると主張すること」</choice>
+      <choice correct="true">「研究を提案、実施、報告する際に、データや実験あるいはその他の重要な情報をでっち上げること」</choice>
+      <choice correct="false">「データや実験あるいはその他の重要な情報、たとえば研究者の資格や業績などを変えたり偽ったりすること」</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.	改竄(Falsification)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">「他の人の仕事あるいはアイディアを自分自身のものであると主張すること」</choice>
+      <choice correct="false">「研究を提案、実施、報告する際に、データや実験あるいはその他の重要な情報をでっち上げること」</choice>
+      <choice correct="true">「データや実験あるいはその他の重要な情報、たとえば研究者の資格や業績などを変えたり偽ったりすること」</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3.	剽窃(Plagiarism)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">「他の人の仕事あるいはアイディアを自分自身のものであると主張すること」</choice>
+      <choice correct="false">「研究を提案、実施、報告する際に、データや実験あるいはその他の重要な情報をでっち上げること」</choice>
+      <choice correct="false">「データや実験あるいはその他の重要な情報、たとえば研究者の資格や業績などを変えたり偽ったりすること」</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>捏造(Fabrication)：実験もしないのに実験をした。改竄(Falsification)：画像データのコントラストを変える。剽窃(Plagiarism)：他の研究者のアイディアを注釈なしに論文で勝手に使用する。(Video 4: 2:33)</hint>
+  </demandhint>
+</problem>

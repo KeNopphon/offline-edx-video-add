@@ -1,0 +1,14 @@
+<problem display_name="マクロ・レベル①" markdown="1942年12月2日に起こった出来事は次のうちどれか。&#10;&#10;( ) アメリカ同時多発テロ&#10;( ) 東日本大震災&#10;(x) 原子核分裂連鎖反応を制御&#10;( ) 小惑星探査機「はやぶさ」帰着&#10;&#10;||この日はアメリカやイギリスを中心とする原子爆弾開発計画であるマンハッタン・プロジェクトに参加していたエンリコ＝フェルミたちが，シカゴ大学に設置された秘密研究所にてあることに成功した。||&#10;&#10;">
+  <multiplechoiceresponse>
+    <p>1942年12月2日に起こった出来事は次のうちどれか。</p>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">アメリカ同時多発テロ</choice>
+      <choice correct="false">東日本大震災</choice>
+      <choice correct="true">原子核分裂連鎖反応を制御</choice>
+      <choice correct="false">小惑星探査機「はやぶさ」帰着</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>この日はアメリカやイギリスを中心とする原子爆弾開発計画であるマンハッタン・プロジェクトに参加していたエンリコ＝フェルミたちが，シカゴ大学に設置された秘密研究所にてあることに成功した。</hint>
+  </demandhint>
+</problem>

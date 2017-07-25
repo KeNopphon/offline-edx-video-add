@@ -1,32 +1,24 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os, tarfile, shutil, xlrd,xlwt, datetime
+
+import os, tarfile, shutil, xlrd,xlwt, datetime,sys
+import json
 import string
 from lxml import etree
 from six.moves import html_parser
+
 
 """
 	Const declaration
 	this consts will help us in case of modifications in the excel sheet
 """
 
-"""
-1.1) export excel into a list of dictionary ---->      (done)
-1.2) extract course into a list of dictionary ---->    (done)
-2) check the existance of course structure
-	--> video does not exist, do either one of following 
-		--> section does not exist, create this structure down to video
-		--> subsection does not exist, create this structure down to video
-		--> unit does not exist, create this structure down to video
-		--> section,subsection,unit do exist, create link in unit and video 
-	--> video exist, contin
 
 
-"""
-
-
-
+reload(sys)
+sys.setdefaultencoding('utf-8')
+print sys.getdefaultencoding()
 """
 	sheet->Video
 """
@@ -37,6 +29,9 @@ VIDEOSUBSECTION = 2
 VIDEOUNIT = 3
 VIDEOURL = 4
 VIDEONAME = 5
+TRANSCRIPTDIR = 6
+ENTRANSCRIPTFILE = 7
+JPTRANSCRIPTFILE = 8
 
 
 COURSEPATH = "course"
@@ -162,37 +157,6 @@ class Course_extraction:
 
 
 
-def clean_filename(s, minimal_change=False):
-    """
-    Sanitize a string to be used as a filename.
-    If minimal_change is set to true, then we only strip the bare minimum of
-    characters that are problematic for filesystems (namely, ':', '/' and
-    '\x00', '\n').
-    """
-
-    # First, deal with URL encoded strings
-    h = html_parser.HTMLParser()
-    s = h.unescape(s)
-
-    # strip paren portions which contain trailing time length (...)
-    s = (
-        s.replace(':', '-')
-        .replace('/', '-')
-        .replace('\x00', '-')
-        .replace('\n', '')
-    )
-
-    if minimal_change:
-        return s
-
-    s = s.replace('(', '').replace(')', '')
-    s = s.rstrip('.')  # Remove excess of trailing dots
-
-    s = s.strip().replace(' ', '_')
-    valid_chars = '-_.()%s%s' % (string.ascii_letters, string.digits)
-    return ''.join(c for c in s if c in valid_chars)
-
-
 
 def excel2list():
 	sheetstruc = wb.sheet_by_name(VIDEOSHEET)
@@ -206,6 +170,9 @@ def excel2list():
 		video_url = sheetstruc.cell_value(row,VIDEOURL)
 		video_url_id = video_url.rsplit('https://youtu.be/', 1)[1]
 		video_name = sheetstruc.cell_value(row,VIDEONAME)
+		transcript_dir = sheetstruc.cell_value(row,TRANSCRIPTDIR)
+		en_transcript_file = sheetstruc.cell_value(row,ENTRANSCRIPTFILE)
+		jp_transcript_file = sheetstruc.cell_value(row,JPTRANSCRIPTFILE)
 
 
 		all_video.append({'idx':video_idx,
@@ -214,277 +181,264 @@ def excel2list():
 			'unit':video_unit,
 			'video_link':video_url,
 			'video_id':video_url_id,
-			'video_name':video_name}) 
+			'video_name':video_name,
+			'transcript_dir':transcript_dir,
+			'en_transcript_file':en_transcript_file,
+			'jp_transcript_file':jp_transcript_file}) 
 	return(all_video)
 
 
 	
 
 
-
-
-def check_video_existance(videos_excel,course_structure):
-
-	videos_info = []
-	for video_info in course_structure.videos():
-		videos_info.append(video_info['display_name'])
-
-	for video_excel in videos_excel:
-		if video_excel['video_name'] not in videos_info:
-			check_section_existance(video_excel,course_structure)
-			check_subsection_existance(video_excel,course_structure)
-			check_unit_existance(video_excel,course_structure)
-
-
-def check_section_existance(video_excel,course_structure):
-	sections = course_structure.sections()
-	sections_name = []
-	for section in sections:
-		sections_name.append(section['section_name'])
-
-	if video_excel['section'] not in sections_name:
-		print 'section: ' + video_excel['section'] + ' does not exist'
-		print 'creating a new section: ' + video_excel['section'] 
-		xml_creation(video_excel['section'],video_excel['subsection'],'chapter','sequential')
-	else:
-		print 'section: ' + video_excel['section'] + ' does exists'
-		#xml_update_subelement(video_excel['section'],video_excel['subsection'],sections,'section','chapter','subsection','sequential')
-
-def check_subsection_existance(video_excel,course_structure):
-	sections = course_structure.sections()
-	subsections = course_structure.subsections()
-	subsections_name = []
-	for subsection in subsections:
-		subsections_name.append(subsection['subsection_name'])
-	if video_excel['subsection'] not in subsections_name:
-		print 'subsection: ' + video_excel['subsection'] + ' does not exist'
-		print 'creating a new subsection: ' + video_excel['subsection'] 
-		xml_creation(video_excel['subsection'],video_excel['unit'],'sequential','vertical')
-		update_section_as_upper_layer(sections, video_excel)
-		#xml_creation(video_excel['section'],video_excel['subsection'],'chapter','sequential')
-		#xml_creation(video_excel['subsection'],video_excel['unit'],'sequential','vertical')
-		#update_section_as_upper_layer(sections, video_excel)
-	else:
-		print 'subsection: ' + video_excel['subsection'] + ' does exists'
-		xml_update_subelement(video_excel['section'],video_excel['subsection'],video_excel['unit'],sections,subsections,'section','chapter','subsection','sequential','unit','vertical')
-		
-		#print 'creating a new subsection: ' + video_excel['subsection'] 
-	
-
-	
-		
-
-		
-
-def check_unit_existance(video_excel,course_structure):
-	sections = course_structure.sections()
-	subsections = course_structure.subsections()
-	units = course_structure.units()
-	
-	units_name = []
-	for unit in units:
-		units_name.append(unit['unit_name'])
-	if video_excel['unit'] not in units_name:
-		print 'unit: ' + video_excel['unit'] + ' doot exist'
-		print 'creating a new unit: ' + video_excel['unit']
-		xml_creation(video_excel['unit'],video_excel['video_name'],'vertical','video')
-		update_subsection_as_upper_layer(sections,subsections, video_excel)
- 
-	else:
-		print 'unit: ' + video_excel['unit'] + ' does exist'
-		xml_update_subelement(video_excel['subsection'],video_excel['unit'],video_excel['video_name'],subsections,units,'subsection','sequential','unit','vertical','video','video')
-		
-		#xml_creation(video_excel['subsection'],video_excel['unit'],'sequential','vertical')
-
-'''
-def xml_creation(layer, sub_layer, layer_name, sublayer_name):
-	layer_filename      = clean_filename(layer)          
-	sublayer_filename   = clean_filename(sub_layer)
-	layer_file = os.path.join(COURSEPATH, layer_name, layer_filename) + ".xml";
-	if os.path.exists(layer_file):   # if xml file exists
-		tree = etree.parse(layer_file)
+def find_video_comp_name(video_from_excel):
+	video_file_ls = os.listdir(os.path.join(COURSEPATH,'video'))
+	for video_file in video_file_ls:
+		#print video_file
+		tree = etree.parse(os.path.join(COURSEPATH,'video',video_file))
 		page = tree.getroot()
 		doc = etree.ElementTree(page)	
-		subelements_objs = page.findall("."+sublayer_name)
-		subelements = []
-		for subelements_obj in subelements_objs:
-			subelements.append(subelements_obj.get('url_name'))
-		if sublayer_filename not in subelements: # if sub_layer element does not exist
-			etree.SubElement(page, sublayer_name,url_name=sublayer_filename)
-			doc.write(layer_file, pretty_print=True, xml_declaration=False, encoding='utf-8')
-	else:   # if xml file does not exist, create a new xml file
-		page = etree.Element(layer_name, display_name=layer) 
-		doc = etree.ElementTree(page)	
-		etree.SubElement(page, sublayer_name,url_name=sublayer_filename)
-		doc.write(layer_file, pretty_print=True, xml_declaration=False, encoding='utf-8')
-'''	
-def xml_creation(layer, sub_layer, layer_name, sublayer_name):
-	layer_filename      = clean_filename(layer)          
-	sublayer_filename   = clean_filename(sub_layer)
-	layer_file = os.path.join(COURSEPATH, layer_name, layer_filename) + ".xml";
-	page = etree.Element(layer_name, display_name=layer) 
-	doc = etree.ElementTree(page)		
-	etree.SubElement(page, sublayer_name,url_name=sublayer_filename)
-	doc.write(layer_file, pretty_print=True, xml_declaration=False, encoding='utf-8')
+		video_objs = page.attrib['display_name']
+		#print video_from_excel.encode('utf-8'),video_objs.encode('utf-8')
+		if video_from_excel.encode('utf-8') == video_objs.encode('utf-8'):
+			print video_from_excel
+			video_path = os.path.join(COURSEPATH,'video',video_file) 
+			return video_path
+		#print video_objs.encode('utf-8')
 
-def xml_update_subelement(upper_layer,layer,sublayer, course_upperlayer,course_layer , edx_upperlayer_name,olx_upperlayer_name,edx_layer_name,olx_layer_name,edx_sublayer_name, olx_sublayer_name):
+def transcript2static(video_info):
+	static_path = os.path.join(COURSEPATH,'static')
+	transcripts = dict()
+	if video_info['en_transcript_file'] != '':
+		transcript_path = os.path.join(video_info['transcript_dir'],video_info['en_transcript_file'])
+		shutil.copy(transcript_path, static_path)
+		transcripts['en'] = str(video_info['en_transcript_file'])
 
-	sublayer_filename      = clean_filename(sublayer)          
-	''' search section in course that matches those in excel file'''
-	print course_upperlayer
-	for e_course_upperlayer in course_upperlayer:
-		if layer == e_course_upperlayer[edx_upperlayer_name+'_name']:
-			match_upper = e_course_upperlayer
-		else:
-			return()
+	if video_info['jp_transcript_file'] != '':
+		transcript_path = os.path.join(video_info['transcript_dir'],video_info['jp_transcript_file'])
+		shutil.copy(transcript_path, static_path)
+		transcripts['ja'] = str(video_info['jp_transcript_file'])
+
+
+
+
+	return transcripts
+		
+
+############################ for creating video compoenent ##############################################
+
+def search_excel_in_course(from_excel,course_structure):
+	for row_ in from_excel:
+		selected_section = find_section_name(row_,course_structure.sections())
+		selected_subsection = find_subsection_name(row_,course_structure.subsections(),selected_section)
+		selected_unit = find_unit_name(row_,course_structure.units(),selected_subsection)
+		modify_video(row_,course_structure.videos(),selected_unit)
+
+def find_section_name(row_section,course_section):
 	
-	for element in course_layer:
-		if layer == element[edx_layer_name+'_name'] and element[edx_layer_name+"_link"] in match_upper['assoc_'+edx_layer_name+'_url']:
-			layer_file = os.path.join(COURSEPATH, olx_layer_name, element[edx_layer_name+"_link"]) + ".xml";
-			tree = etree.parse(layer_file)
-			page = tree.getroot()
-			doc = etree.ElementTree(page)	
-			subelements_objs = page.findall("."+olx_sublayer_name)
-			subelements = []
-			for subelements_obj in subelements_objs:
-				subelements.append(subelements_obj.get('url_name'))
-			if sublayer_filename not in subelements: # if sub_layer element does not exist
-				etree.SubElement(page, olx_sublayer_name,url_name=sublayer_filename)
-				doc.write(layer_file, pretty_print=True, xml_declaration=False, encoding='utf-8')
+	for course_sec_row in course_section:
+		course_sec_row['section_name'] = course_sec_row['section_name'].rstrip()
+		row_section['section'] = row_section['section'].rstrip()
+		if course_sec_row['section_name']== row_section['section']:
+			print 'found section: ' + (row_section['section'])+ ' in the exported course'
+			selected_section = course_sec_row
+			return selected_section
 
+	print 'no section: ' + (row_section['section']) + ' in the exported course'
+	print 'create a new no section: ' + (row_section['section']) + ' in the exported course'
+	new_section_link =  os.urandom(16).encode('hex')
+	new_section_file =  new_section_link + '.xml'
+	new_section_path =  os.path.join(COURSEPATH, 'chapter', new_section_file)
+	new_subsection_link = os.urandom(16).encode('hex')
+	page = etree.Element('chapter', display_name= row_section['section']) 
+	doc = etree.ElementTree(page)
+	etree.SubElement(page, 'sequential',url_name=new_subsection_link)
+	doc.write(new_section_path, pretty_print=True, xml_declaration=False, encoding='utf-8')
+	selected_section = {'section_link':new_section_link,'section_name':row_section['section'],'assoc_subsection_url':[new_subsection_link]}
+	return selected_section
 
-def update_section_as_upper_layer(all_course_section,video_excel_info):
-
-
-	section_name = video_excel_info['section']
-	subsection_name =  video_excel_info['subsection']
-	subsection_filename      = clean_filename(subsection_name)   
-	for course_section in all_course_section:
-		if section_name == course_section['section_name']:
-			section_file = os.path.join(COURSEPATH,'chapter',course_section['section_link']) + ".xml";
-			tree = etree.parse(section_file)
-			page = tree.getroot()
-			doc = etree.ElementTree(page)	
-			subsection_links = []
-			subsection_objs = page.findall(".sequential")
-			for subsection_obj in subsection_objs:
-				subsection_links.append(subsection_obj.get('url_name'))
-			print subsection_links
-			if subsection_filename not in subsection_links: # if sub_layer element does not exist
-				etree.SubElement(page, 'sequencial',url_name=subsection_filename)
-				doc.write(section_file, pretty_print=True, xml_declaration=False, encoding='utf-8')
-
-def update_subsection_as_upper_layer(all_course_section,all_course_subsection,video_excel_info):
-
-	section_name = video_excel_info['section']
-	subsection_name =  video_excel_info['subsection']
-	unit_name =   video_excel_info['unit']
-	unit_filename      = clean_filename(unit_name)   
-	''' search section in course that matches those in excel file'''
-	for course_section in all_course_section:
-		if section_name == course_section['section_name']:
-			match_section = course_section
-	''' search subsection in course that matches those in excel file'''
-	for course_subsection in all_course_subsection:
-		''' if both section and subsection are the same as those in excel file, add unit in subsection xml'''
-		if subsection_name == course_subsection['subsection_name'] and course_subsection['subsection_link'] in match_section['assoc_subsection_url']:
-
-				subsection_file = os.path.join(COURSEPATH,'sequential',course_subsection['subsection_link'])+".xml";
-				tree = etree.parse(subsection_file)
-				page = tree.getroot()
-				doc = etree.ElementTree(page)	
-				unit_links = []
-				unit_objs = page.findall(".vertical")
-				for unit_obj in unit_objs:
-					unit_links.append(unit_obj.get('url_name'))
-				if unit_filename not in unit_links: # if sub_layer element does not exist
-					etree.SubElement(page, 'vertical',url_name=unit_filename)
-					doc.write(subsection_file, pretty_print=True, xml_declaration=False, encoding='utf-8')
-
-def add_unit_link(videos_excel,course_structure):
-
-	units = course_structure.units()
+def find_subsection_name(row_subsection,course_subsection,selected_section):
 	
-	units = []
-	for unit_info in course_structure.units():
-		units.append(unit_info)
+	for course_subsec_row in course_subsection:
+		course_subsec_row['subsection_name'] = course_subsec_row['subsection_name'].rstrip()
+		row_subsection['subsection'] = row_subsection['subsection'].rstrip()
+		if course_subsec_row['subsection_name']== row_subsection['subsection']:
+			if course_subsec_row['subsection_link'] in selected_section['assoc_subsection_url']:
+				print 'found subsection: ' + (row_subsection['subsection'])+ ' in the exported course'
+				selected_subsection = course_subsec_row
+				return selected_subsection
 
-	for video_excel in videos_excel:
-		for unit in units:
-			if video_excel['unit'] == unit['unit_name']:
-				unit_filename = os.path.join(COURSEPATH,'vertical',unit['unit_link'])+".xml";
-				tree = etree.parse(unit_filename)
-				page = tree.getroot()
-				doc = etree.ElementTree(page)	
-				video_links = []
-				video_objs = page.findall(".video")
+	print 'no subsection: ' + (row_subsection['subsection']) + ' in the exported course'
+	print 'create a new subsection: ' + (row_subsection['subsection']) + ' in the exported course'
+	new_subsection_link =  selected_section['assoc_subsection_url'][0]
+	new_subsection_file =  new_subsection_link + '.xml'
+	new_subsection_path =  os.path.join(COURSEPATH, 'sequential', new_subsection_file)
+	new_unit_link = os.urandom(16).encode('hex')
+	page = etree.Element('sequential', display_name= row_subsection['subsection']) 
+	doc = etree.ElementTree(page)
+	etree.SubElement(page, 'vertical',url_name=new_unit_link)
+	doc.write(new_subsection_path, pretty_print=True, xml_declaration=False, encoding='utf-8')
+	selected_subsection = {'subsection_link':new_subsection_link,'subsection_name':row_section['subsection'],'assoc_unit_url':[new_unit_link]}
+	return selected_subsection
 
-				for video_obj in video_objs:
-					video_links.append(video_obj.get('url_name'))
-				if video_excel['video_name'] not in video_links: # if sub_layer element does not exist
-					etree.SubElement(page, 'video',url_name=video_excel['video_name'])
-					doc.write(unit_filename, pretty_print=True, xml_declaration=False, encoding='utf-8')
-					print 'added link to video component at unit :'+unit_filename
-
-
-
+def find_unit_name(row_unit,course_unit,selected_subsection):
 	
+	for course_unit_row in course_unit:
+		course_unit_row['unit_name'] = course_unit_row['unit_name'].rstrip()
+		row_unit['unit'] = row_unit['unit'].rstrip()
+		if course_unit_row['unit_name'] == row_unit['unit']:
+			if course_unit_row['unit_link'] in selected_subsection['assoc_unit_url']:
+				print 'found unit: ' + (row_unit['unit'])+ ' in the exported course'
+				selected_unit = course_unit_row
+				return selected_unit
+
+	print 'no unit: ' + (row_unit['unit']) + 'in the exported course'
+	print 'crate a new unit: ' + (row_unit['unit']) + ' in the exported course'
+	new_unit_link =  selected_subsection['assoc_unit_url'][0]
+	new_unit_file =  new_unit_link + '.xml'
+	new_unit_path =  os.path.join(COURSEPATH, 'vertical', new_unit_file)
+	new_video_link = os.urandom(16).encode('hex')
+	page = etree.Element('vertical', display_name= row_unit['unit']) 
+	doc = etree.ElementTree(page)
+	etree.SubElement(page, 'video',url_name=new_video_link)
+	doc.write(new_unit_path, pretty_print=True, xml_declaration=False, encoding='utf-8')
+	selected_unit = {'unit_link':new_subsection_link,'unit_name':row_unit['unit'],'assoc_video_url':[new_video_link]}
+	return selected_unit
 
 
-def video_component(videos):
+
+############################for editing video video_component 	###############################################
+
+def modify_video(row_video,course_video,selected_unit):
+	
+	
+	for course_video_row in course_video:
+		course_video_row['video_name'] = course_video_row['video_name'].rstrip()
+		row_video['video_name'] = row_video['video_name'].rstrip()
+		
+
+		if course_video_row['video_name'] == row_video['video_name']:
+			if course_video_row['url_name'] in selected_unit['assoc_video_url']:
+				
+				print 'found video component: ' + (row_video['video_name'])+ ' in the exported course'
+				print 'remove video: ' +(row_video['video_name']) + ' from exported file'
+				video_file =  course_video_row['url_name'] + '.xml'
+				video_path =  os.path.join(COURSEPATH, 'video', video_file)
+				os.remove(video_path)
+				print 'add a new video: ' +(row_video['video_name']) + ' to exported file'
+				youtube = '1.00:'+ row_video['video_id'].rstrip()
+				youtube_id_1_0 = row_video['video_id'].rstrip()
+				display_name = row_video['video_name']
+				urlname = course_video_row['url_name']
+				download_TF = "false"
+				edx_video_id = ""
+				url_source = "[]"
+				link_sub = row_video['video_id']
+				transcripts = transcript2static(row_video)
+				if transcripts != []:
+					page = etree.Element('video', youtube=youtube, url_name = urlname, display_name = display_name, download_video=download_TF,edx_video_id =edx_video_id, html5_sources=url_source,sub=link_sub, youtube_id_1_0=youtube_id_1_0,transcripts=str(json.dumps(transcripts))) 
+					for key, value in transcripts.iteritems():
+						etree.SubElement(page, 'transcript',language=key,src=value)
+				else: 
+					page = etree.Element('video', youtube=youtube, url_name = urlname, display_name = display_name, download_video=download_TF,edx_video_id =edx_video_id, html5_sources=url_source,sub=link_sub, youtube_id_1_0=youtube_id_1_0,transcripts="") 
+				doc = etree.ElementTree(page)
+				doc.write(video_path, pretty_print=True, xml_declaration=False, encoding='utf-8')
+				print "video component: " + video_path + " is created"
+				print "------------------------------------------------------------\n\n"
+				return
+
+
+
+	print 'no video: ' + (row_video['video_name']) + ' in the exported course'
+	print 'crate a new video: ' + (row_video['video_name']) + ' in the exported course'
+
+	video_file = selected_unit['assoc_video_url'][0] + '.xml'
+	video_path =  os.path.join(COURSEPATH, 'video', video_file)
+	youtube = '1.00:'+ row_video['video_id'].rstrip()
+	youtube_id_1_0 = row_video['video_id'].rstrip()
+	display_name = row_video['video_name']
+	urlname = selected_unit['assoc_video_url'][0]
+	download_TF = "false"
+	edx_video_id = ""
+	url_source = "[]"
+	link_sub = row_video['video_id']
+	transcripts = transcript2static(row_video)
+	if transcripts != []:
+		page = etree.Element('video', youtube=youtube, url_name = urlname, display_name = display_name, download_video=download_TF,edx_video_id =edx_video_id, html5_sources=url_source,sub=link_sub, youtube_id_1_0=youtube_id_1_0,transcripts=str(json.dumps(transcripts))) 
+		for key, value in transcripts.iteritems():
+			etree.SubElement(page, 'transcript',language=key,src=value)
+	else: 
+		page = etree.Element('video', youtube=youtube, url_name = urlname, display_name = display_name, download_video=download_TF,edx_video_id =edx_video_id, html5_sources=url_source,sub=link_sub, youtube_id_1_0=youtube_id_1_0,transcripts="") 
+	doc = etree.ElementTree(page)
+	doc.write(video_path, pretty_print=True, xml_declaration=False, encoding='utf-8')
+	print 'add a new video: ' + row_video['video_name'] + ' to exported file'
+	print "------------------------------------------------------------\n\n"
+
+################################################################################################################
+
+
+############################for editing video video_component 	###############################################
+
+def edited_video_component(videos):
 	print "--------------------------------------- begin creating video xml file ----------------------------------------"
 	for video in videos:
 	
-		youtube = "1.00:"+ video['video_id'].rstrip()
-		youtube_id_1_0 = youtube
+		youtube = video['video_id'].rstrip()
+		youtube_id_1_0 = '1.00:'+ youtube
 		display_name = video['video_name']
 		urlname = video['video_name']
 		download_TF = "false"
 		edx_video_id = ""
 		url_source = "[]"
 		link_sub = video['video_id']
-
-		video_path = os.path.join(COURSEPATH,'video',video['video_name'])
-		xmlfile = video_path + ".xml";
+		video_path = find_video_comp_name(display_name)
+		transcripts = transcript2static(video)
 		page = etree.Element('video', youtube=youtube, url_name = urlname, display_name = display_name, download_video=download_TF,edx_video_id =edx_video_id, html5_sources=url_source,sub=link_sub, youtube_id_1_0=youtube_id_1_0) 
+		if transcripts != []:
+			for transcript in transcripts:
+				key = transcript.keys() 
+				etree.SubElement(page, 'transcript',language=key[0],src=transcript[key[0]])
+
 		doc = etree.ElementTree(page)
-		doc.write(xmlfile, pretty_print=True, xml_declaration=False, encoding='utf-8')
-		print "video component: " + xmlfile + " is created"
+		doc.write(video_path, pretty_print=True, xml_declaration=False, encoding='utf-8')
+		#print "video component: " + xmlfile + " is created"
+		print "video component: " + video_path + " is created"
 	print "-------------------------------------------------------------------------------------------------------"+ "\n"
+
+################################################################################################################
+
 
 
 def make_tarfile():
 	"""
 	Packs all in a targz file ready to import.
-	"""
+	
+	path = COURSEPATH
 	with tarfile.open(path + '/' + path + '.tar.gz', 'w:gz') as tar:
 		for f in os.listdir(path):
+			print f
+			tar.posix
 			tar.add(path + "/" + f, arcname=os.path.basename(f))
 		tar.close()
 	print "uploadable file is created at " + path + '/' + path + '.tar.gz'
+	"""
+	addpath = 'set PATH=%PATH%;C:\Program Files\7-Zip\ ' 
+	compress_tar = '7z a course.tar course\ '
+	compress_targz = '7z a course.tar.gz course.tar'
+	os.system(addpath)
+	os.system(compress_tar)
+	os.system(compress_targz)
+	os.remove('course.tar')
 
 
 
 
 def main():
 
-	'''
-	Main script makes the calls in order to clean the resulting thir and after that generate that dir and the targz
-	that we will use to import the course
-	'''
+	search_excel_in_course(excel2list(),Course_extraction())
+	make_tarfile()
+
 	
-	course_structure = Course_extraction()
-	all_video = excel2list()
-	#check_video_existance(all_video,course_structure)
-	add_unit_link(all_video,course_structure)
-	video_component(all_video)
-	#print(course_structure.subsections())
-	##create_directory_tree()
-	#remove_existing_seq_video_link()
-	#read_video_and_link_mapping()
-	#video_component()
-	
-	#make_tarfile()
 
 
 
@@ -497,3 +451,9 @@ if __name__ == '__main__':
 	except KeyboardInterrupt:
 		logging.warn("\n\nCTRL-C detected, shutting down....")
 		sys.exit(ExitCode.OK)
+
+
+
+
+
+

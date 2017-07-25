@@ -1,0 +1,435 @@
+1
+00:00:06,006 --> 00:00:09,009
+Space Shuttle Challenger
+disaster (2) --- as a lesson of
+engineer's ethics
+
+2
+00:00:12,012 --> 00:00:15,015
+The disaster of space
+shuttle Challenger occurred
+
+3
+00:00:15,015 --> 00:00:18,018
+on January 28, 1986,
+in front of
+
+4
+00:00:18,018 --> 00:00:21,021
+the eyes of people all
+over the world.
+
+5
+00:00:21,021 --> 00:00:24,024
+The space shuttle
+Challenger broke apart and
+
+6
+00:00:24,024 --> 00:00:27,027
+exploded 73 seconds
+after it was launched
+
+7
+00:00:27,027 --> 00:00:30,030
+from the Kennedy Space
+Center in Florida.
+
+8
+00:00:30,030 --> 00:00:33,033
+Among the seven crew members
+
+9
+00:00:33,033 --> 00:00:36,036
+there was a civilian
+teacher,
+
+10
+00:00:36,036 --> 00:00:39,039
+Christa McAuliffe,
+
+11
+00:00:39,039 --> 00:00:42,042
+who would have been
+
+12
+00:00:42,042 --> 00:00:45,045
+the first teacher in space.
+
+13
+00:00:45,045 --> 00:00:48,048
+All the seven crew members
+died in the shuttle.
+
+14
+00:00:48,048 --> 00:00:51,051
+It was a disaster.
+
+15
+00:00:51,051 --> 00:00:54,054
+Actually, on the
+very day of the launch,
+
+16
+00:00:54,054 --> 00:00:57,057
+the area of Florida was hit
+
+17
+00:00:57,057 --> 00:00:59,993
+by a record-breaking
+cold wave.
+
+18
+00:00:59,993 --> 00:01:02,996
+The temperature at
+the time of the launch
+
+19
+00:01:02,996 --> 00:01:05,999
+was 2.2℃ below freezing, which
+was far below
+
+20
+00:01:05,999 --> 00:01:09,002
+the usual temperature in
+this season in Florida.
+
+21
+00:01:09,002 --> 00:01:12,005
+The Challenger was launched
+
+22
+00:01:12,005 --> 00:01:15,008
+under these unusual conditions;
+
+23
+00:01:15,008 --> 00:01:18,011
+the air temperature was
+lower than average
+
+24
+00:01:18,011 --> 00:01:21,014
+in previous launches by
+good 10 degrees.
+
+25
+00:01:21,014 --> 00:01:24,017
+This unusual cold
+temperature was
+
+26
+00:01:24,017 --> 00:01:27,020
+the reason that
+caused the accident.
+
+27
+00:01:27,020 --> 00:01:30,023
+Look at the picture of
+the Challenger.
+
+28
+00:01:33,026 --> 00:01:36,029
+The orbiter with delta wing
+
+29
+00:01:36,029 --> 00:01:39,032
+is equipped with
+
+30
+00:01:39,032 --> 00:01:42,035
+the main engine.
+
+31
+00:01:42,035 --> 00:01:45,038
+Atop the orbiter is
+
+32
+00:01:45,038 --> 00:01:48,041
+the external fuel tank
+
+33
+00:01:48,041 --> 00:01:51,044
+marked in red
+
+34
+00:01:51,044 --> 00:01:54,047
+to supply the main engine
+
+35
+00:01:54,047 --> 00:01:57,050
+with liquid fuel.
+
+36
+00:01:57,050 --> 00:01:59,987
+The external fuel
+tank is equipped
+
+37
+00:01:59,987 --> 00:02:02,990
+with a solid-rocket booster
+
+38
+00:02:02,990 --> 00:02:05,993
+on each side,
+
+39
+00:02:05,993 --> 00:02:08,996
+which generate
+
+40
+00:02:08,996 --> 00:02:11,999
+the primary propulsion.
+
+41
+00:02:11,999 --> 00:02:15,002
+All the parts
+
+42
+00:02:15,002 --> 00:02:18,005
+excluding the
+external fuel tank
+
+43
+00:02:18,005 --> 00:02:21,008
+will be collected
+
+44
+00:02:21,008 --> 00:02:24,011
+and reused.
+
+45
+00:02:24,011 --> 00:02:27,014
+The next slide illustrates
+
+46
+00:02:27,014 --> 00:02:30,017
+the solid-rocket booster.
+
+47
+00:02:30,017 --> 00:02:33,020
+Each part was produced
+
+48
+00:02:33,020 --> 00:02:36,023
+in a plant of the
+Morton-Thiokol in Utah,
+
+49
+00:02:36,023 --> 00:02:39,026
+a corporation under contract
+
+50
+00:02:39,026 --> 00:02:42,029
+with the NASA, and
+
+51
+00:02:42,029 --> 00:02:45,032
+then assembled together at
+
+52
+00:02:45,032 --> 00:02:48,035
+the Kennedy Space
+Center in Florida.
+
+53
+00:02:48,035 --> 00:02:51,038
+The field joint,
+
+54
+00:02:51,038 --> 00:02:54,041
+which joint several
+parts together
+
+55
+00:02:54,041 --> 00:02:57,044
+has to airtight
+
+56
+00:02:57,044 --> 00:02:59,980
+to seal the hot,
+
+57
+00:02:59,980 --> 00:03:02,983
+high-pressure gasses.
+
+58
+00:03:08,989 --> 00:03:11,992
+The investigation of the
+special commission
+
+59
+00:03:11,992 --> 00:03:14,995
+appointed by U.S.
+President Ronald Regan,
+
+60
+00:03:14,995 --> 00:03:17,998
+concluded that
+
+61
+00:03:17,998 --> 00:03:21,001
+the accident was caused
+
+62
+00:03:21,001 --> 00:03:24,004
+by the hot gasses leaked
+
+63
+00:03:24,004 --> 00:03:27,007
+from the joint,
+
+64
+00:03:27,007 --> 00:03:30,010
+which ignited the
+external fuel tank
+
+65
+00:03:30,010 --> 00:03:33,013
+and set off the explosion.
+
+66
+00:03:33,013 --> 00:03:36,016
+The field joints were sealed
+
+67
+00:03:36,016 --> 00:03:39,019
+with rubber O-rings.
+
+68
+00:03:39,019 --> 00:03:42,022
+However, the unusually
+cold temperature
+
+69
+00:03:42,022 --> 00:03:45,025
+reduced elasticity
+of the rubber,
+
+70
+00:03:45,025 --> 00:03:48,028
+and the O-rings failed
+
+71
+00:03:48,028 --> 00:03:51,031
+to fulfill the expected
+sealing function.
+
+72
+00:03:54,034 --> 00:03:57,037
+To enhance the performance,
+
+73
+00:03:57,037 --> 00:03:59,973
+the joints were sealed
+with two O-rings,
+
+74
+00:03:59,973 --> 00:04:02,976
+but the burning gas
+
+75
+00:04:02,976 --> 00:04:05,979
+melted them both
+
+76
+00:04:05,979 --> 00:04:08,982
+and reached the outside.
+
+77
+00:04:11,985 --> 00:04:14,988
+Actually, Morton-Thiokol
+had recognized
+
+78
+00:04:14,988 --> 00:04:17,991
+the flaw in field joints
+already in 1970's
+
+79
+00:04:17,991 --> 00:04:20,994
+at the developmental stage
+
+80
+00:04:20,994 --> 00:04:23,997
+of the shuttle.
+
+81
+00:04:23,997 --> 00:04:27,000
+In this lecture,
+
+82
+00:04:27,000 --> 00:04:30,003
+we will examine
+
+83
+00:04:30,003 --> 00:04:33,006
+the case of Challenger
+
+84
+00:04:33,006 --> 00:04:36,009
+from the perspective of
+
+85
+00:04:36,009 --> 00:04:39,012
+on-site engineer, Boisjoly.
+
+86
+00:04:39,012 --> 00:04:42,015
+Certainly, to give a
+comprehensive analysis of
+
+87
+00:04:42,015 --> 00:04:45,018
+the case from science
+historical
+
+88
+00:04:45,018 --> 00:04:48,021
+and technological
+viewpoints,
+
+89
+00:04:48,021 --> 00:04:51,024
+closer examinations
+on evidences
+
+90
+00:04:51,024 --> 00:04:54,027
+from both NASA
+
+91
+00:04:54,027 --> 00:04:57,030
+and Morton-Thiokol
+are necessary.
+
+92
+00:04:59,966 --> 00:05:02,969
+In this lecture, however,
+
+93
+00:05:02,969 --> 00:05:05,972
+we will examine the case
+
+94
+00:05:05,972 --> 00:05:08,975
+from an educational point of view
+
+95
+00:05:08,975 --> 00:05:11,978
+for engineering ethics,
+
+96
+00:05:11,978 --> 00:05:14,981
+focusing especially on
+
+97
+00:05:14,981 --> 00:05:17,984
+Boisjoly's engagement
+
+98
+00:05:17,984 --> 00:05:20,987
+rather than
+
+99
+00:05:20,987 --> 00:05:23,990
+historical studies
+of the case.

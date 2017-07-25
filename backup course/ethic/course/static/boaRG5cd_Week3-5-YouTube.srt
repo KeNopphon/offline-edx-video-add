@@ -1,0 +1,468 @@
+﻿1
+00:00:06,006 --> 00:00:09,009
+Seven-Step Guide 3
+
+2
+00:00:12,012 --> 00:00:15,015
+In the previous step,
+we learned
+
+3
+00:00:15,015 --> 00:00:18,018
+how to examine listed
+possible actions.
+
+4
+00:00:18,018 --> 00:00:21,021
+In this examination,
+
+5
+00:00:21,021 --> 00:00:24,024
+we use several 'tests'.
+
+6
+00:00:24,024 --> 00:00:27,027
+These tests are called
+
+7
+00:00:27,027 --> 00:00:30,030
+'ethic tests'.
+
+8
+00:00:30,030 --> 00:00:33,033
+It is to consider validity
+
+9
+00:00:33,033 --> 00:00:36,036
+and propriety of
+certain actions.
+
+10
+00:00:36,036 --> 00:00:39,039
+This tests also reveals
+
+11
+00:00:39,039 --> 00:00:42,042
+ethically
+inappropriate actions.
+
+12
+00:00:42,042 --> 00:00:45,045
+First, let me explain about
+
+13
+00:00:45,045 --> 00:00:48,048
+the Reversibility Test.
+
+14
+00:00:48,048 --> 00:00:51,051
+In the reversibility test,
+you will consider
+
+15
+00:00:51,051 --> 00:00:54,054
+if you would make the
+same decision,
+
+16
+00:00:54,054 --> 00:00:57,057
+even if you were in
+the position
+
+17
+00:00:57,057 --> 00:00:59,993
+who would be
+directly affected
+
+18
+00:00:59,993 --> 00:01:02,996
+by the action you are
+about to take.
+
+19
+00:01:02,996 --> 00:01:05,999
+For example,
+
+20
+00:01:05,999 --> 00:01:09,002
+if the result of your action
+
+21
+00:01:09,002 --> 00:01:12,005
+you are taking will give
+negative influence
+
+22
+00:01:12,005 --> 00:01:15,008
+on your health and safety,
+
+23
+00:01:15,008 --> 00:01:18,011
+you may not to make
+such an decision.
+
+24
+00:01:18,011 --> 00:01:21,014
+If so, the action is
+
+25
+00:01:21,014 --> 00:01:24,017
+ethically not appropriate.
+
+26
+00:01:24,017 --> 00:01:27,020
+It is same as the
+golden rule that
+
+27
+00:01:27,020 --> 00:01:30,023
+you should not do something
+
+28
+00:01:30,023 --> 00:01:33,026
+you don't want to be done.
+
+29
+00:01:33,026 --> 00:01:36,029
+Reversibility Test is thus also
+called as the Golden Rule Test.
+
+30
+00:01:36,029 --> 00:01:39,032
+The golden rule is a basic
+moral principle
+
+31
+00:01:39,032 --> 00:01:42,035
+shared by major
+religions in the world.
+
+32
+00:01:42,035 --> 00:01:45,038
+In Christianity, it
+is said that
+
+33
+00:01:45,038 --> 00:01:48,041
+'one should treat others as
+
+34
+00:01:48,041 --> 00:01:51,044
+one would like others
+to treat oneself.'
+
+35
+00:01:51,044 --> 00:01:54,047
+In Confucianism, they say
+'one should not treat others
+
+36
+00:01:54,047 --> 00:01:57,050
+in ways that one would not
+like to be treated.'
+
+37
+00:01:57,050 --> 00:01:59,987
+Besides Reversibility Test,
+
+38
+00:01:59,987 --> 00:02:02,990
+can we do some
+additional tests?
+
+39
+00:02:02,990 --> 00:02:05,993
+Yes. In the following part,
+
+40
+00:02:05,993 --> 00:02:08,996
+I will explain a few
+more ethical tests.
+
+41
+00:02:08,996 --> 00:02:11,999
+Let's look at the
+'Universalization Test'.
+
+42
+00:02:15,002 --> 00:02:18,005
+The Universalization
+Test is based on
+
+43
+00:02:18,005 --> 00:02:21,008
+Immanuel Kant's ethical
+theory of duty.
+
+44
+00:02:21,008 --> 00:02:24,011
+In his famous
+deontological ethics,
+
+45
+00:02:24,011 --> 00:02:27,014
+Kant argued that
+ethical thinking
+
+46
+00:02:27,014 --> 00:02:30,017
+fundamentally seeks
+for universality,
+
+47
+00:02:30,017 --> 00:02:33,020
+and the primary formal
+requirements
+
+48
+00:02:33,020 --> 00:02:36,023
+for ethics is to be
+universal.
+
+49
+00:02:36,023 --> 00:02:39,026
+Therefore, ethical
+value of an act
+
+50
+00:02:39,026 --> 00:02:42,029
+can be measured by
+
+51
+00:02:42,029 --> 00:02:45,032
+its universalizability,
+
+52
+00:02:45,032 --> 00:02:48,035
+if you can universalize
+it or not.
+
+53
+00:02:57,044 --> 00:02:59,980
+Based on this
+Kantian ethics,
+
+54
+00:02:59,980 --> 00:03:02,983
+the Universalization
+Test considers:
+
+55
+00:03:02,983 --> 00:03:05,986
+what if 'everybody'
+took the action
+
+56
+00:03:05,986 --> 00:03:08,989
+that you are about
+to conduct?
+
+57
+00:03:11,992 --> 00:03:14,995
+In other words, you
+universalize the action.
+
+58
+00:03:14,995 --> 00:03:17,998
+If, as a consequence of
+
+59
+00:03:17,998 --> 00:03:21,001
+the action taken by
+everybody,
+
+60
+00:03:21,001 --> 00:03:24,004
+contradictions and
+inconsistency
+
+61
+00:03:24,004 --> 00:03:27,007
+may occur within
+the society,
+
+62
+00:03:27,007 --> 00:03:30,010
+then the action is
+ethically inappropriate.
+
+63
+00:03:30,010 --> 00:03:33,013
+Let's take an example of
+
+64
+00:03:33,013 --> 00:03:36,016
+lying or breaking promise.
+
+65
+00:03:36,016 --> 00:03:39,019
+Let's test the case if you
+decide, for some reason,
+
+66
+00:03:39,019 --> 00:03:42,022
+to break your promise
+with friend.
+
+67
+00:03:42,022 --> 00:03:45,025
+What if everybody
+would break promises?
+
+68
+00:03:45,025 --> 00:03:48,028
+Then, the society
+does not function.
+
+69
+00:03:48,028 --> 00:03:51,031
+Thus, breaking promises is
+
+70
+00:03:51,031 --> 00:03:54,034
+an ethically
+inappropriate behavior.
+
+71
+00:03:54,034 --> 00:03:57,037
+Universalization Test is
+
+72
+00:03:57,037 --> 00:03:59,973
+a useful way of judging
+
+73
+00:03:59,973 --> 00:04:02,976
+appropriateness of action.
+
+74
+00:04:02,976 --> 00:04:05,979
+Another useful measure is.
+
+75
+00:04:05,979 --> 00:04:08,982
+the Virtue Test. It is
+less well-known
+
+76
+00:04:08,982 --> 00:04:11,985
+but quite important.
+
+77
+00:04:11,985 --> 00:04:14,988
+The Virtue Test is based on
+
+78
+00:04:14,988 --> 00:04:17,991
+the virtue ethics
+originated by
+
+79
+00:04:17,991 --> 00:04:20,994
+ancient Greek philosophers
+such as Aristotle.
+
+80
+00:04:20,994 --> 00:04:23,997
+Virtue ethics examine
+not an action
+
+81
+00:04:23,997 --> 00:04:27,000
+in a certain situation
+
+82
+00:04:27,000 --> 00:04:30,003
+but the actor itself.
+
+83
+00:04:30,003 --> 00:04:33,006
+You think if the action
+you are taking is
+
+84
+00:04:33,006 --> 00:04:36,009
+appropriate to a person
+
+85
+00:04:36,009 --> 00:04:39,012
+you want to be liked.
+
+86
+00:04:39,012 --> 00:04:42,015
+You also examine,
+
+87
+00:04:42,015 --> 00:04:45,018
+whether the action leads you
+
+88
+00:04:45,018 --> 00:04:48,021
+to live a good
+life you wish.
+
+89
+00:04:51,024 --> 00:04:54,027
+In Aristotle's ethics,.
+
+90
+00:04:54,027 --> 00:04:57,030
+the 'good life' means
+
+91
+00:04:57,030 --> 00:04:59,966
+the highest human good, or
+
+92
+00:04:59,966 --> 00:05:02,969
+'eudaemonia'.
+
+93
+00:05:02,969 --> 00:05:05,972
+The Greek word
+'eudaemonia' is
+
+94
+00:05:05,972 --> 00:05:08,975
+often translated as
+'happiness',
+
+95
+00:05:08,975 --> 00:05:11,978
+but it is better said as
+
+96
+00:05:11,978 --> 00:05:14,981
+'well-being'.
+
+97
+00:05:14,981 --> 00:05:17,984
+In business ethics,
+
+98
+00:05:17,984 --> 00:05:20,987
+the Virtue Test is called
+as 'mirror test'.
+
+99
+00:05:20,987 --> 00:05:23,990
+You think yourself,
+
+100
+00:05:23,990 --> 00:05:26,993
+how you feel when
+you look at
+
+101
+00:05:26,993 --> 00:05:29,996
+your face in the mirror
+
+102
+00:05:29,996 --> 00:05:32,999
+the next morning after
+
+103
+00:05:32,999 --> 00:05:36,002
+you have conducted a
+certain action.
+

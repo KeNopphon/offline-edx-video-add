@@ -1,0 +1,543 @@
+﻿1
+00:00:03,003 --> 00:00:06,006
+Value and Code of
+Ethics of Engineers 2
+
+2
+00:00:12,012 --> 00:00:15,015
+This is Article 1 of
+the fundamental
+
+3
+00:00:15,015 --> 00:00:18,018
+canons of ethics
+for engineer.
+
+4
+00:00:18,018 --> 00:00:21,021
+It is a prominent principle
+
+5
+00:00:21,021 --> 00:00:24,024
+stated in the first line
+
+6
+00:00:24,024 --> 00:00:27,027
+of many code of ethics.
+
+7
+00:00:27,027 --> 00:00:30,030
+It reads:
+'Engineers shall hold
+
+8
+00:00:30,030 --> 00:00:33,033
+paramount the safety,
+health and welfare
+
+9
+00:00:33,033 --> 00:00:36,036
+of the public in
+the performance
+
+10
+00:00:36,036 --> 00:00:39,039
+of their professional duties."
+
+11
+00:00:39,039 --> 00:00:42,042
+Public safety,
+
+12
+00:00:42,042 --> 00:00:45,045
+health, and well-being are
+
+13
+00:00:45,045 --> 00:00:48,048
+the most important values
+
+14
+00:00:48,048 --> 00:00:51,051
+for engineers.
+
+15
+00:00:51,051 --> 00:00:54,054
+At the same time,
+
+16
+00:00:54,054 --> 00:00:57,057
+the Article 4 of
+the fundamental
+
+17
+00:00:57,057 --> 00:00:59,993
+canons states that
+'engineers shall act
+
+18
+00:00:59,993 --> 00:01:02,996
+in professional matters
+
+19
+00:01:02,996 --> 00:01:05,999
+for each employer or client
+
+20
+00:01:05,999 --> 00:01:09,002
+as faithful agents
+
+21
+00:01:09,002 --> 00:01:12,005
+or trustees, (...)'.
+
+22
+00:01:12,005 --> 00:01:15,008
+Code of ethics stipulates
+
+23
+00:01:15,008 --> 00:01:18,011
+many other values.
+
+24
+00:01:18,011 --> 00:01:21,014
+For instance, it states
+
+25
+00:01:21,014 --> 00:01:24,017
+engineer shall avoid
+
+26
+00:01:24,017 --> 00:01:27,020
+conflicts of interest.
+
+27
+00:01:27,020 --> 00:01:30,023
+Many others, such as safety,
+
+28
+00:01:30,023 --> 00:01:33,026
+are prescribed in the codes.
+
+29
+00:01:33,026 --> 00:01:36,029
+Now, let's look
+at the history
+
+30
+00:01:36,029 --> 00:01:39,032
+of code of ethics for
+engineers in Japan.
+
+31
+00:01:39,032 --> 00:01:42,035
+The first code of
+ethics in Japan was
+
+32
+00:01:42,035 --> 00:01:45,038
+established by a society
+of civil engineers
+
+33
+00:01:45,038 --> 00:01:48,041
+in 1938.
+
+34
+00:01:48,041 --> 00:01:51,044
+It was called as
+'the principles and
+
+35
+00:01:51,044 --> 00:01:54,047
+code of practices for
+civil engineer'.
+
+36
+00:01:54,047 --> 00:01:57,050
+It stated engineer's dignity
+
+37
+00:01:57,050 --> 00:01:59,987
+and code of practices.
+
+38
+00:01:59,987 --> 00:02:02,990
+Considering it was established
+
+39
+00:02:02,990 --> 00:02:05,993
+as early as in 1938,
+
+40
+00:02:05,993 --> 00:02:08,996
+it was remarkably
+well formulated,
+
+41
+00:02:08,996 --> 00:02:11,999
+thanks to the leadership
+of Akira Aoyama.
+
+42
+00:02:11,999 --> 00:02:15,002
+Aoyama was a renowned
+
+43
+00:02:15,002 --> 00:02:18,005
+civil engineer worked for
+
+44
+00:02:18,005 --> 00:02:21,008
+the Home Ministry.
+
+45
+00:02:21,008 --> 00:02:24,011
+He became the 23rd president
+
+46
+00:02:24,011 --> 00:02:27,014
+of Japan Society of Civil
+
+47
+00:02:27,014 --> 00:02:30,017
+Engineers.
+
+48
+00:02:30,017 --> 00:02:33,020
+Influenced by
+Kanzo Uchiyama,
+
+49
+00:02:33,020 --> 00:02:36,023
+Aoyama developed his career
+
+50
+00:02:36,023 --> 00:02:39,026
+in the United States
+
+51
+00:02:39,026 --> 00:02:42,029
+and worked on the Panama
+
+52
+00:02:42,029 --> 00:02:45,032
+Canal construction.
+
+53
+00:02:45,032 --> 00:02:48,035
+Aoki was an
+unprecedented engineer
+
+54
+00:02:48,035 --> 00:02:51,038
+with international
+perspective
+
+55
+00:02:51,038 --> 00:02:54,041
+and practical experience.
+
+56
+00:02:54,041 --> 00:02:57,044
+Aoki considered
+civil engineering as
+
+57
+00:02:57,044 --> 00:02:59,980
+essential driving force for
+the cultural development.
+
+58
+00:02:59,980 --> 00:03:02,983
+Referring to the
+examples in the U.S.,
+
+59
+00:03:02,983 --> 00:03:05,986
+he constituted a noble
+
+60
+00:03:05,986 --> 00:03:08,989
+and lofty code of ethics.
+
+61
+00:03:08,989 --> 00:03:11,992
+He proposed the draft
+
+62
+00:03:11,992 --> 00:03:14,995
+in 1933, which was officially
+
+63
+00:03:14,995 --> 00:03:17,998
+approved by the society
+
+64
+00:03:17,998 --> 00:03:21,001
+in 1938. However,
+
+65
+00:03:21,001 --> 00:03:24,004
+in the time of
+chauvinistic nationalism
+
+66
+00:03:24,004 --> 00:03:27,007
+fueled by the
+Sino-Japanese war
+
+67
+00:03:27,007 --> 00:03:30,010
+and the Pacific war,
+Aoki's code of ethics
+
+68
+00:03:30,010 --> 00:03:33,013
+did not receive
+recognitions,
+
+69
+00:03:33,013 --> 00:03:36,016
+even in the society
+until recently.
+
+70
+00:03:36,016 --> 00:03:39,019
+The code had
+
+71
+00:03:39,019 --> 00:03:42,022
+a very limited impact
+
+72
+00:03:42,022 --> 00:03:45,025
+on Japanese civil engineers.
+
+73
+00:03:45,025 --> 00:03:48,028
+In 1950's, when Japan entered
+
+74
+00:03:48,028 --> 00:03:51,031
+the post-war
+restoration period,
+
+75
+00:03:51,031 --> 00:03:54,034
+after the model of
+consulting engineer
+
+76
+00:03:54,034 --> 00:03:57,037
+in the U. S.,
+the qualification law
+
+77
+00:03:57,037 --> 00:03:59,973
+of professional engineer
+was established
+
+78
+00:03:59,973 --> 00:04:02,976
+in Japan in 1957,
+with the aim of
+
+79
+00:04:02,976 --> 00:04:05,979
+putting their
+professional skills
+
+80
+00:04:05,979 --> 00:04:08,982
+for the development of
+national industry.
+
+81
+00:04:08,982 --> 00:04:11,985
+Following the
+qualification systems
+
+82
+00:04:11,985 --> 00:04:14,988
+such as consulting engineer,
+
+83
+00:04:14,988 --> 00:04:17,991
+professional engineer
+
+84
+00:04:17,991 --> 00:04:20,994
+in the U.S. and Europe,
+
+85
+00:04:20,994 --> 00:04:23,997
+chartered engineer
+in the U.K.,
+
+86
+00:04:23,997 --> 00:04:27,000
+the law officially
+prescribed
+
+87
+00:04:27,000 --> 00:04:30,003
+the specific qualification
+
+88
+00:04:30,003 --> 00:04:33,006
+for Japanese
+consulting engineer.
+
+89
+00:04:33,006 --> 00:04:36,009
+In 1961,
+
+90
+00:04:36,009 --> 00:04:39,012
+the Institution of
+Professional Engineers
+
+91
+00:04:39,012 --> 00:04:42,015
+established the
+code of ethics
+
+92
+00:04:42,015 --> 00:04:45,018
+for engineers and
+their practices.
+
+93
+00:04:45,018 --> 00:04:48,021
+This code of ethics,
+however,
+
+94
+00:04:48,021 --> 00:04:51,024
+did not receive
+much recognition,
+
+95
+00:04:51,024 --> 00:04:54,027
+neither.
+
+96
+00:04:54,027 --> 00:04:57,030
+Because of the
+small number of
+
+97
+00:04:57,030 --> 00:04:59,966
+qualified engineers,
+it didn't
+
+98
+00:04:59,966 --> 00:05:02,969
+have prevailing impact
+
+99
+00:05:02,969 --> 00:05:05,972
+to the whole country.
+
+100
+00:05:05,972 --> 00:05:08,975
+After 80 years since the
+establishment in the U.S,
+
+101
+00:05:08,975 --> 00:05:11,978
+the first modern code
+of ethics for
+
+102
+00:05:11,978 --> 00:05:14,981
+Japanese engineer
+was established
+
+103
+00:05:14,981 --> 00:05:17,984
+in 1996. The international
+
+104
+00:05:17,984 --> 00:05:20,987
+information science
+associations criticized
+
+105
+00:05:20,987 --> 00:05:23,990
+only societies in
+Japan and Korea among
+
+106
+00:05:23,990 --> 00:05:26,993
+all those in the world
+have no code of ethics.
+
+107
+00:05:26,993 --> 00:05:29,996
+Receiving the pressure from
+international community,
+
+108
+00:05:29,996 --> 00:05:32,999
+the Information Processing
+Society of Japan
+
+109
+00:05:32,999 --> 00:05:36,002
+quickly established
+their code of ethics.
+
+110
+00:05:36,002 --> 00:05:39,005
+As the relationship between
+
+111
+00:05:39,005 --> 00:05:42,008
+science and society changes,
+
+112
+00:05:42,008 --> 00:05:45,011
+major scientific societies
+and associations
+
+113
+00:05:45,011 --> 00:05:48,014
+followed to establish
+code of ethics,
+
+114
+00:05:48,014 --> 00:05:51,017
+and revised it regularly.
+
+115
+00:05:51,017 --> 00:05:54,020
+It is important for you
+
+116
+00:05:54,020 --> 00:05:57,023
+to read and examine
+the code of ethics
+
+117
+00:05:57,023 --> 00:05:59,960
+prescribed by scientific
+societies and associations
+
+118
+00:05:59,960 --> 00:06:02,963
+in your relevant field,
+
+119
+00:06:02,963 --> 00:06:05,966
+to study and consider
+
+120
+00:06:05,966 --> 00:06:08,969
+what kinds of values
+are emphasized
+
+121
+00:06:08,969 --> 00:06:11,972
+in your field of engineering.
+

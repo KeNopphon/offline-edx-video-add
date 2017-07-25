@@ -1,0 +1,19 @@
+<problem display_name="Quiz3" markdown="プロフェッションと「社会契約説」について、次の空欄に当てはまる言葉を入れよ。&#10;&#10;•&#9;長期的な知的【　】/訓練が必要&#10;= 専門教育&#10;•&#9;社会に対するほぼ【　】なサービス&#10;= 独占的&#10;•&#9;高い【　】的地位と報酬&#10;= 社会&#10;•&#9;倫理/行動規範の確立と【　】の確保&#10;= 自治権&#10;&#10;&#10;&#10;&#10;&#10;" max_attempts="1" weight="3.0">
+  <p>プロフェッションと「社会契約説」について、次の空欄に当てはまる言葉を入れよ。</p>
+  <p>•	長期的な知的【　】/訓練が必要</p>
+  <stringresponse answer="専門教育" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+  <p>•	社会に対するほぼ【　】なサービス</p>
+  <stringresponse answer="独占的" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+  <p>•	高い【　】的地位と報酬</p>
+  <stringresponse answer="社会" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+  <p>•	倫理/行動規範の確立と【　】の確保</p>
+  <stringresponse answer="自治権" type="ci">
+    <textline size="20"/>
+  </stringresponse>
+</problem>

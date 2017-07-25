@@ -1,0 +1,216 @@
+1
+00:00:11,320 --> 00:00:14,951
+The topic I'd like to introduce now is
+
+2
+00:00:14,951 --> 00:00:18,690
+thinking about the ethics of science and engineering
+
+3
+00:00:18,690 --> 00:00:20,770
+on four different levels.
+
+4
+00:00:20,770 --> 00:00:24,810
+I have spoken on the subject of ethics of science and engineering
+
+5
+00:00:24,810 --> 00:00:27,029
+to a number of people.
+
+6
+00:00:27,029 --> 00:00:29,650
+I've discussed it extensively.
+
+7
+00:00:29,650 --> 00:00:31,859
+It's a subject that really gets people talking.
+
+8
+00:00:31,859 --> 00:00:35,400
+I've had many interesting discussions and
+
+9
+00:00:35,400 --> 00:00:37,510
+participants presented a variety of opinions
+
+10
+00:00:37,510 --> 00:00:41,100
+but it would often get to the point when
+
+11
+00:00:41,100 --> 00:00:44,410
+I felt there was a mismatch in our perspectives.
+
+12
+00:00:44,410 --> 00:00:46,579
+This made me think about
+
+13
+00:00:46,579 --> 00:00:51,180
+the four different levels concerning ethics.
+
+14
+00:00:51,180 --> 00:00:54,899
+When people discuss ethics, each speaking on a different level
+
+15
+00:00:54,899 --> 00:00:58,230
+they will only be at cross purposes.
+
+16
+00:00:58,230 --> 00:00:59,309
+This is the conclusion I've come to.
+
+17
+00:00:59,309 --> 00:01:04,540
+First, we have engineers
+
+18
+00:01:04,540 --> 00:01:08,420
+or scientists. We focus on individuals.
+
+19
+00:01:08,420 --> 00:01:11,020
+Why did this or that person make a particular decision?
+
+20
+00:01:11,020 --> 00:01:12,060
+Think from their point of view.
+
+21
+00:01:12,060 --> 00:01:13,920
+Was the decision they made right?
+
+22
+00:01:13,920 --> 00:01:16,330
+This is what we call
+
+23
+00:01:16,330 --> 00:01:18,640
+micro-ethics.
+
+24
+00:01:18,640 --> 00:01:22,080
+Looking at ethics from the point of view of
+
+25
+00:01:22,080 --> 00:01:26,490
+the relationship between science and society
+
+26
+00:01:26,490 --> 00:01:29,250
+when making decisions
+
+27
+00:01:29,250 --> 00:01:32,530
+is referred to as macro-ethics.
+
+28
+00:01:32,530 --> 00:01:33,939
+So we have micro-ethics
+
+29
+00:01:33,939 --> 00:01:37,240
+with an individual focus
+
+30
+00:01:37,240 --> 00:01:41,360
+and macro-ethics where we look at
+
+31
+00:01:41,360 --> 00:01:45,079
+the bigger picture and role of science in the society.
+
+32
+00:01:45,079 --> 00:01:49,430
+These are two major levels.
+
+33
+00:01:49,430 --> 00:01:55,430
+But, especially in Japan...
+
+34
+00:01:55,430 --> 00:01:59,250
+Apart from micro- and macro- ethics
+
+35
+00:01:59,250 --> 00:02:02,790
+there is an additional, organisational level.
+
+36
+00:02:02,790 --> 00:02:06,380
+This applies to engineers in particular.
+
+37
+00:02:06,380 --> 00:02:09,649
+It's very common to be part of an organisation.
+
+38
+00:02:09,649 --> 00:02:14,780
+So we have this meso-ethics level in between micro and macro.
+
+39
+00:02:14,780 --> 00:02:18,480
+I think it's easy to think about it in this way.
+
+40
+00:02:18,480 --> 00:02:20,570
+But there is yet another level.
+
+41
+00:02:20,570 --> 00:02:23,790
+It's rarely brought up.
+
+42
+00:02:23,790 --> 00:02:25,530
+On the fourth level, we look at the nature of science itself.
+
+43
+00:02:25,530 --> 00:02:27,500
+And what technology is.
+
+44
+00:02:27,500 --> 00:02:30,100
+What purpose do they serve?
+
+45
+00:02:30,100 --> 00:02:34,560
+On this level we ask more
+
+46
+00:02:34,560 --> 00:02:37,380
+metaphysical questions.
+
+47
+00:02:37,380 --> 00:02:41,750
+This I call meta-level ethics.
+
+48
+00:02:41,750 --> 00:02:45,980
+So we have meta-, macro-, mezo- and micro-ethics.
+
+49
+00:02:45,980 --> 00:02:50,010
+When you are aware of these four levels
+
+50
+00:02:50,010 --> 00:02:54,199
+and think about ethics within this framework
+
+51
+00:02:54,199 --> 00:02:56,820
+you start realising, oh he's talking on the micro-ethics level.
+
+52
+00:02:56,820 --> 00:02:59,600
+And now I'm talking about macro-ethics.
+
+53
+00:02:59,600 --> 00:03:03,440
+It becomes easier for you to engage in a discussion
+
+54
+00:03:03,440 --> 00:03:04,230
+on the same plane.
+

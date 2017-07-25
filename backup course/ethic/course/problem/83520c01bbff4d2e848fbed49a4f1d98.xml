@@ -1,0 +1,14 @@
+<problem display_name="Checkboxes" markdown="Question: アメリカのRCR教育の専門家とORI(研究公正局)が行った調査の結果から、専門家が研究に必要であると考えていることはどれか。適切なものをすべて選びなさい。&#10;&#10;[x] 1.&#9;倫理的な判断能力&#10;[x] 2.&#9;倫理的な問題解決能力の育成&#10;[x] 3.&#9;研究不正に対する態度の育成&#10;[x] 4.&#9;倫理的な感受性&#10;&#10;||これらのことはe-learningをやる、あるいはただ教科書を読むということだけでは身に着けることができない。一般にこれらの能力を高めるために使われている教育方法というのは、ケースメソッドといわれる方法がある。(video7 02:20)||&#10;">
+  <choiceresponse>
+    <p>Question: アメリカのRCR教育の専門家とORI(研究公正局)が行った調査の結果から、専門家が研究に必要であると考えていることはどれか。適切なものをすべて選びなさい。</p>
+    <checkboxgroup>
+      <choice correct="true">1.	倫理的な判断能力</choice>
+      <choice correct="true">2.	倫理的な問題解決能力の育成</choice>
+      <choice correct="true">3.	研究不正に対する態度の育成</choice>
+      <choice correct="true">4.	倫理的な感受性</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <demandhint>
+    <hint>これらのことはe-learningをやる、あるいはただ教科書を読むということだけでは身に着けることができない。一般にこれらの能力を高めるために使われている教育方法というのは、ケースメソッドといわれる方法がある。(video7 02:20)</hint>
+  </demandhint>
+</problem>

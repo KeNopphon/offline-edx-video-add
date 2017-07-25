@@ -1,0 +1,12 @@
+<problem display_name="事故原因" markdown="打ち上げ前夜の電話会議において、なぜ打ち上げの承認が下りたのか。以下の空欄に当てはまる語を選びなさい。&#10;&#10;【　】と燃焼ガスの吹き抜けの間にはっきりとした相関関係がなかったから。&#10;&#10;( ) 風向&#10;( ) 日光&#10;( ) 湿度&#10;(x) 気温&#10;&#10;">
+  <multiplechoiceresponse>
+    <p>打ち上げ前夜の電話会議において、なぜ打ち上げの承認が下りたのか。以下の空欄に当てはまる語を選びなさい。</p>
+    <p>【　】と燃焼ガスの吹き抜けの間にはっきりとした相関関係がなかったから。</p>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">風向</choice>
+      <choice correct="false">日光</choice>
+      <choice correct="false">湿度</choice>
+      <choice correct="true">気温</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

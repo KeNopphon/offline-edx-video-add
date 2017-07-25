@@ -1,0 +1,5 @@
+<vertical display_name="仮想事例">
+  <video url_name="a9e9defa630f40008fc1a994308f1fa5"/>
+  <html url_name="df90f917bd2340238d4742d7f77a653d"/>
+  <poll url_name="5668266ed12240b982aa351a5b108c23" xblock-family="xblock.v1" feedback="" display_name="技術者が倫理的意思決定を迫られるとき：仮想事例" private_results="false" question="仮想事例において、自分ならどうするか。あなたの考えに最も近いものを選びなさい。" max_submissions="1" answers="[&#10;  [&#10;    &quot;R&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;\u4e0a\u53f8\u306e\u6307\u793a\u306b\u5f93\u3046&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;B&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;\u4e0a\u53f8\u306b\u79d8\u5bc6\u3067\u3001\u518d\u5ea6\u8a2d\u8a08\u3059\u308b&quot;&#10;    }&#10;  ],&#10;  [&#10;    &quot;G&quot;,&#10;    {&#10;      &quot;img&quot;: &quot;&quot;,&#10;      &quot;img_alt&quot;: &quot;&quot;,&#10;      &quot;label&quot;: &quot;\u4e0a\u53f8\u306e\u4e0a\u53f8\u306b\u76f8\u8ac7\u3059\u308b&quot;&#10;    }&#10;  ]&#10;]"/>
+</vertical>

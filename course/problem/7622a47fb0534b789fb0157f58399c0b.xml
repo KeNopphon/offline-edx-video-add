@@ -1,0 +1,14 @@
+<problem display_name="倫理綱領" markdown="日本で初めて倫理綱領を制定した学会はどれか。&#10;&#10;( ) 電気学会&#10;(x) 土木学会&#10;( ) 日本機械学会&#10;( ) 情報処理学会&#10;&#10;||1938年に制定された。この内容は技術者の誇りとその行動規範を高らかに宣言したものである。(Video8 1:25)||">
+  <multiplechoiceresponse>
+    <p>日本で初めて倫理綱領を制定した学会はどれか。</p>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">電気学会</choice>
+      <choice correct="true">土木学会</choice>
+      <choice correct="false">日本機械学会</choice>
+      <choice correct="false">情報処理学会</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>1938年に制定された。この内容は技術者の誇りとその行動規範を高らかに宣言したものである。(Video8 1:25)</hint>
+  </demandhint>
+</problem>

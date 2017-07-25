@@ -1,0 +1,50 @@
+{
+  "start": [
+    10980, 
+    12189, 
+    14820, 
+    18140, 
+    23880, 
+    24380, 
+    27820, 
+    30220, 
+    39980, 
+    40480, 
+    45180, 
+    53640, 
+    54140, 
+    57920
+  ], 
+  "end": [
+    12189, 
+    14811, 
+    18140, 
+    23880, 
+    24380, 
+    27820, 
+    30220, 
+    39980, 
+    40480, 
+    45180, 
+    53640, 
+    54140, 
+    57880, 
+    60320
+  ], 
+  "text": [
+    "Nice to meet you.", 
+    "My name is Jun Fudano,", 
+    "instructor for this course on TokyoTechX\u2019s Science and Engineering Ethics.", 
+    "I am a professor at the Institute for Liberal Arts, Tokyo Institute of Technology.", 
+    "", 
+    "My name is Hiroto Kono, a graduate student and also a teaching assistant for this course.", 
+    "It is a great pleasure teaching you.", 
+    "This course covers topics relating to Science and Engineering Ethics and so it might sound somewhat challenging at first though;", 
+    "", 
+    "we will be introducing concepts by brining in authentic examples, which we hope you find them relatable.", 
+    "In addition - we will put our focus on Aspirational Ethics, which hasn\u2019t been emphasized enough in the past.", 
+    "", 
+    "I hope you will enjoy this course, TokyoTechX\u2019s Science and Engineering Ethics.", 
+    "We look forward to getting to know you."
+  ]
+}

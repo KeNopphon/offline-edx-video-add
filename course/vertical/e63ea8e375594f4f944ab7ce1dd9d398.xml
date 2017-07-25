@@ -1,0 +1,69 @@
+<vertical display_name="Open Response Assessment">
+  <html url_name="623276b0d2264d6099721daabc260d52"/>
+  <html url_name="7d44dab5eecd4575898b2bab92a42a55"/>
+  <openassessment url_name="c2e458caa90a4c7982174c8d6bd21336" submission_start="2001-01-01T00:00:00+00:00" submission_due="2017-08-02T00:00:00+00:00" text_response="required" allow_latex="False">
+    <title>中間課題</title>
+    <assessments>
+      <assessment name="student-training">
+        <example>
+          <answer>
+            <part>(1)
+一郎が開発したカーナビが、設計ミスにより過熱を起こす可能性があることがわかった。
+事実を公表すれば、一郎は設計課長として責任を取らなければならない。
+一郎には幼い子どもがおり、上司を告発して会社を追い出されるわけにはいかない。
+
+(2)
+課長の後任に事実関係を知らせ、対応を要請する。
+社内の相談窓口に問い合わせる。
+マスコミに全てをリークする。</part>
+          </answer>
+          <select criterion="Ideas" option="Fair"/>
+          <select criterion="Content" option="Poor"/>
+        </example>
+      </assessment>
+      <assessment name="peer-assessment" must_grade="2" must_be_graded_by="2" start="2001-01-01T00:00:00+00:00" due="2017-08-02T00:00:00+00:00"/>
+    </assessments>
+    <prompts>
+      <prompt>
+        <description>上の仮想事例で、もしあなたが山田一郎の立場ならどうするか、セブン・ステップ・ガイドに従って考えてみよ。
+(1) 当事者の立場から、直面している問題を表現せよ(ステップ1)。
+(2) 取りうる行動案を、少なくとも３つ以上具体的に挙げよ(ステップ4)。</description>
+      </prompt>
+    </prompts>
+    <rubric>
+      <criterion feedback="required">
+        <name>Ideas</name>
+        <label></label>
+        <prompt>(1)の回答に含まれる事実関係に、誤りはないか。仮想事例の記述に照らし、判断しなさい。</prompt>
+        <option points="3">
+          <name>Poor</name>
+          <label>正しい</label>
+          <explanation>仮想事例の文中にないことや、文中にある事実と明らかに矛盾することが、回答にほとんど含まれていない(2つ以下である)。</explanation>
+        </option>
+        <option points="0">
+          <name>Fair</name>
+          <label>全く誤っている</label>
+          <explanation>仮想事例の文中にないことや、文中にある事実と明らかに矛盾することが、回答に3つ以上含まれている。</explanation>
+        </option>
+      </criterion>
+      <criterion feedback="required">
+        <name>Content</name>
+        <label></label>
+        <prompt>(2)の回答で、3つ以上の行動案を挙げられているか。</prompt>
+        <option points="3">
+          <name>Poor</name>
+          <label>3つ以上挙げられている</label>
+          <explanation></explanation>
+        </option>
+        <option points="0">
+          <name>Good</name>
+          <label>2つ以下しか挙げられていない</label>
+          <explanation></explanation>
+        </option>
+      </criterion>
+      <feedbackprompt>Comments: この回答について、ほかに良いと思ったこと、改善した方が良いと感じたことなどを書け。</feedbackprompt>
+      <feedback_default_text>I think that this response...
+</feedback_default_text>
+    </rubric>
+  </openassessment>
+</vertical>

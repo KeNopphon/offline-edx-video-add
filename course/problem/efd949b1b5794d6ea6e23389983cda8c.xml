@@ -1,0 +1,11 @@
+<problem display_name="チャレンジャー号の事故" markdown="チャレンジャー号の事故が起こったのはいつか。&#10;&#10;( ) 1976年1月28日&#10;(x) 1986年1月28日&#10;( ) 1996年1月28日&#10;( ) 2006年1月28日&#10;&#10;">
+  <multiplechoiceresponse>
+    <p>チャレンジャー号の事故が起こったのはいつか。</p>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1976年1月28日</choice>
+      <choice correct="true">1986年1月28日</choice>
+      <choice correct="false">1996年1月28日</choice>
+      <choice correct="false">2006年1月28日</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

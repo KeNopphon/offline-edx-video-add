@@ -1,0 +1,9 @@
+<problem display_name="Quiz1" markdown="Michael Davis が主張する倫理の3つの意味について、適切な語を入れなさい。&#10;&#10;①&#9;習俗、慣習、（性格、徳）&#10;②&#9;ある社会集団の行動規範&#10;③&#9;学問分野としての【　　】学&#10;&#10;= 倫理&#10;&#10;" max_attempts="1" weight="1.0">
+  <stringresponse answer="倫理" type="ci">
+    <p>Michael Davis が主張する倫理の3つの意味について、適切な語を入れなさい。</p>
+    <p>①	習俗、慣習、（性格、徳）</p>
+    <p>②	ある社会集団の行動規範</p>
+    <p>③	学問分野としての【　　】学</p>
+    <textline size="20"/>
+  </stringresponse>
+</problem>

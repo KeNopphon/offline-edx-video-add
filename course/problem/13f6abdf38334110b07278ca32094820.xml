@@ -1,0 +1,66 @@
+<problem display_name="Multiple Choice" markdown="Question2：ジョン・ザイマンが主張する現代の科学の価値について、それぞれの単語の意味を選びなさい。&#10;&#10;Proprietary&#10;( )地域的&#10;( )権威主義的&#10;( )請け負い性&#10;( )営利的・機密的&#10;( )細分化された専門性&#10;&#10;Proprietary&#10;( )地域的&#10;( )権威主義的&#10;( )請け負い性&#10;(x)営利的・機密的&#10;( )細分化された専門性&#10;&#10;Local&#10;(x)地域的&#10;( )権威主義的&#10;( )請け負い性&#10;( )営利的・機密的&#10;( )細分化された専門性&#10;&#10;Authoritarian&#10;( )地域的&#10;(x)権威主義的&#10;( )請け負い性&#10;( )営利的・機密的&#10;( )細分化された専門性&#10;&#10;Commissioned&#10;( )地域的&#10;( )権威主義的&#10;(x)請け負い性&#10;( )営利的・機密的&#10;( )細分化された専門性&#10;&#10;Expert&#10;( )地域的&#10;( )権威主義的&#10;( )請け負い性&#10;( )営利的・機密的&#10;(x)細分化された専門性&#10;&#10;||企業から研究費を得ている場合、共同研究などでは特に関わってくるその各組織の思惑というのが絡み合って、深刻な利益相反のようなことがやはり起きやすいということである。(video 5 06:11)||">
+  <p>Question2：ジョン・ザイマンが主張する現代の科学の価値について、それぞれの単語の意味を選びなさい。</p>
+  <p>Proprietary</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">地域的</choice>
+      <choice correct="false">権威主義的</choice>
+      <choice correct="false">請け負い性</choice>
+      <choice correct="false">営利的・機密的</choice>
+      <choice correct="false">細分化された専門性</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Proprietary</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">地域的</choice>
+      <choice correct="false">権威主義的</choice>
+      <choice correct="false">請け負い性</choice>
+      <choice correct="true">営利的・機密的</choice>
+      <choice correct="false">細分化された専門性</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Local</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">地域的</choice>
+      <choice correct="false">権威主義的</choice>
+      <choice correct="false">請け負い性</choice>
+      <choice correct="false">営利的・機密的</choice>
+      <choice correct="false">細分化された専門性</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Authoritarian</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">地域的</choice>
+      <choice correct="true">権威主義的</choice>
+      <choice correct="false">請け負い性</choice>
+      <choice correct="false">営利的・機密的</choice>
+      <choice correct="false">細分化された専門性</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Commissioned</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">地域的</choice>
+      <choice correct="false">権威主義的</choice>
+      <choice correct="true">請け負い性</choice>
+      <choice correct="false">営利的・機密的</choice>
+      <choice correct="false">細分化された専門性</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Expert</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">地域的</choice>
+      <choice correct="false">権威主義的</choice>
+      <choice correct="false">請け負い性</choice>
+      <choice correct="false">営利的・機密的</choice>
+      <choice correct="true">細分化された専門性</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>企業から研究費を得ている場合、共同研究などでは特に関わってくるその各組織の思惑というのが絡み合って、深刻な利益相反のようなことがやはり起きやすいということである。(video 5 06:11)</hint>
+  </demandhint>
+</problem>

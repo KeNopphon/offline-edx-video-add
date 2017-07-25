@@ -1,0 +1,55 @@
+<problem display_name="セブン・ステップ・ガイド" markdown="セブン・ステップ・ガイド のステップ3~6について、正しい順番に並べ替えなさい。&#10;&#10;ステップ0. 自分が当事者としてとるであろう行動を想像してみる。&#10;ステップ1. 当事者の立場から、直面している問題を表現してみよ。 &#10;ステップ2. 事実関係を整理せよ。&#10;ステップ3.【 】&#10;ステップ4.【 】&#10;ステップ5.【 】&#10;ステップ6.【 】&#10;ステップ7. 再発防止に向けた対策を検討する。&#10;||セブン・ステップ・ガイドは、倫理的な問題に直面したときに、的確な倫理的意思決定を下すための実践的な手続きとして、いろんなところで考案、活用されている。video2 1:52||&#10;&#10;選択肢：&#10;1.&#9;倫理的観点から行動案を評価せよ。&#10;2.&#9;複数の行動案を具体的に考えてみよ。&#10;3.&#9;自分の行動方針を決定せよ。&#10;4.&#9;ステークホルダーと価値を整理せよ。&#10;&#10;&#10;&#10;ステップ3.&#10;( ) 1&#10;( ) 2 &#10;( ) 3 &#10;(x) 4&#10;ステップ4.&#10;( ) 1&#10;(x) 2 &#10;( ) 3 &#10;( ) 4&#10;ステップ5.&#10;(x) 1&#10;( ) 2 &#10;( ) 3 &#10;( ) 4&#10;ステップ6.&#10;( ) 1&#10;( ) 2 &#10;(x) 3 &#10;( ) 4&#10;">
+  <p>セブン・ステップ・ガイド のステップ3~6について、正しい順番に並べ替えなさい。</p>
+  <p>ステップ0. 自分が当事者としてとるであろう行動を想像してみる。</p>
+  <p>ステップ1. 当事者の立場から、直面している問題を表現してみよ。 </p>
+  <p>ステップ2. 事実関係を整理せよ。</p>
+  <p>ステップ3.【 】</p>
+  <p>ステップ4.【 】</p>
+  <p>ステップ5.【 】</p>
+  <p>ステップ6.【 】</p>
+  <p>ステップ7. 再発防止に向けた対策を検討する。</p>
+  <p>選択肢：</p>
+  <p>1.	倫理的観点から行動案を評価せよ。</p>
+  <p>2.	複数の行動案を具体的に考えてみよ。</p>
+  <p>3.	自分の行動方針を決定せよ。</p>
+  <p>4.	ステークホルダーと価値を整理せよ。</p>
+  <p>ステップ3.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="false">2</choice>
+      <choice correct="false">3</choice>
+      <choice correct="true">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>ステップ4.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="true">2</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>ステップ5.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1</choice>
+      <choice correct="false">2</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>ステップ6.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="false">2</choice>
+      <choice correct="true">3</choice>
+      <choice correct="false">4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>セブン・ステップ・ガイドは、倫理的な問題に直面したときに、的確な倫理的意思決定を下すための実践的な手続きとして、いろんなところで考案、活用されている。video2 1:52</hint>
+  </demandhint>
+</problem>

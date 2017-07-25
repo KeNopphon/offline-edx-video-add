@@ -1,0 +1,240 @@
+1
+00:00:11,610 --> 00:00:13,504
+When you talk about learning
+
+2
+00:00:13,504 --> 00:00:14,904
+science and engineering ethics
+
+3
+00:00:14,904 --> 00:00:16,293
+do you only mean
+
+4
+00:00:16,293 --> 00:00:17,992
+learning certain rules such as
+
+5
+00:00:17,992 --> 00:00:20,478
+you must not do this
+
+6
+00:00:20,478 --> 00:00:22,070
+or you must do that?
+
+7
+00:00:22,070 --> 00:00:25,818
+Is this what learning ethics all about?
+
+8
+00:00:25,818 --> 00:00:27,611
+I think that there are many people who
+
+9
+00:00:27,611 --> 00:00:28,907
+have this kind of idea about ethics.
+
+10
+00:00:28,907 --> 00:00:32,888
+But there is definitely more than that.
+
+11
+00:00:32,888 --> 00:00:36,978
+First of all, what is ethics, what constitutes ethical judgement?
+
+12
+00:00:36,978 --> 00:00:39,565
+This is what I'd also like you
+
+13
+00:00:39,565 --> 00:00:41,665
+to think about.
+
+14
+00:00:41,665 --> 00:00:44,157
+Please take a look at this slide.
+
+15
+00:00:44,157 --> 00:00:47,143
+When I talk about the ethics of science
+
+16
+00:00:47,143 --> 00:00:50,725
+or ethics of technology
+
+17
+00:00:50,725 --> 00:00:54,908
+I imagine the image of a balance like this.
+
+18
+00:00:54,908 --> 00:00:58,997
+As Mr. Kono said earlier, many people think that
+
+19
+00:00:58,997 --> 00:01:00,494
+ethics is about norms and rules
+
+20
+00:01:00,494 --> 00:01:04,681
+that must be adhered to and preserved.
+
+21
+00:01:04,681 --> 00:01:07,462
+I'm aware that this is
+
+22
+00:01:07,462 --> 00:01:09,957
+a very common preconception.
+
+23
+00:01:09,957 --> 00:01:12,547
+However, in this course,
+
+24
+00:01:12,547 --> 00:01:15,734
+I would like you to step out of these restrictive notions.
+
+25
+00:01:15,734 --> 00:01:22,113
+Instead, think about ethics as
+
+26
+00:01:22,113 --> 00:01:24,105
+a sort of balance, or a balance of values.
+
+27
+00:01:24,105 --> 00:01:25,696
+This is what I will be talking about.
+
+28
+00:01:25,696 --> 00:01:29,677
+When we analyse how to make ethical judgement
+
+29
+00:01:29,677 --> 00:01:32,670
+we can see that it is actually about
+
+30
+00:01:32,670 --> 00:01:34,153
+finding a balance between various issues.
+
+31
+00:01:34,153 --> 00:01:36,543
+This is how I see it.
+
+32
+00:01:36,543 --> 00:01:40,231
+For example, consider about engineers and technicians
+
+33
+00:01:40,231 --> 00:01:44,955
+in the course of their daily work they
+
+34
+00:01:44,955 --> 00:01:47,147
+need to take into account in many different values.
+
+35
+00:01:47,147 --> 00:01:49,236
+The most important one is, of course...
+
+36
+00:01:49,236 --> 00:01:51,424
+Safety, but that is not all.
+
+37
+00:01:51,424 --> 00:01:55,211
+This is not determined by only safety alone.
+
+38
+00:01:55,211 --> 00:01:58,400
+There are other concerns, such as cost
+
+39
+00:01:58,400 --> 00:02:02,879
+or deadlines, or whether to try a new design.
+
+40
+00:02:02,879 --> 00:02:06,474
+Or a product's durability.
+
+41
+00:02:06,474 --> 00:02:08,464
+There are many factors we can assign value to.
+
+42
+00:02:08,464 --> 00:02:11,554
+We seek a balance between these values
+
+43
+00:02:11,554 --> 00:02:14,337
+when making decisions.
+
+44
+00:02:14,337 --> 00:02:16,533
+Making an ethical decision
+
+45
+00:02:16,533 --> 00:02:19,122
+means making the right call.
+
+46
+00:02:19,122 --> 00:02:21,217
+Making an unethical decision
+
+47
+00:02:21,217 --> 00:02:22,615
+means making an inappropriate choice.
+
+48
+00:02:22,615 --> 00:02:26,892
+Finding the correct balance between values
+
+49
+00:02:26,892 --> 00:02:30,382
+is a creative process.
+
+50
+00:02:30,382 --> 00:02:34,656
+It requires an imaginative approach.
+
+51
+00:02:34,656 --> 00:02:37,643
+Making ethical considerations
+
+52
+00:02:37,643 --> 00:02:40,639
+means seeking the right balance
+
+53
+00:02:40,639 --> 00:02:44,016
+in the decision-making process.
+
+54
+00:02:44,016 --> 00:02:47,208
+Now, I have been talking about values.
+
+55
+00:02:47,208 --> 00:02:50,103
+The actual concept of values
+
+56
+00:02:50,103 --> 00:02:53,687
+will be the key throughout the course
+
+57
+00:02:53,687 --> 00:02:56,978
+so please keep that in mind.
+
+58
+00:02:56,978 --> 00:03:00,961
+Now that this is clear
+
+59
+00:03:00,961 --> 00:03:04,452
+I would like to start the lecture.
+
+60
+00:03:04,452 --> 00:03:07,637
+Yes, please go ahead.
+

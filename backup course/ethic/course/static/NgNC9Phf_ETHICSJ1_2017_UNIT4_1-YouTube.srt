@@ -1,0 +1,579 @@
+﻿1
+00:00:11,477 --> 00:00:15,151
+In this course, you have studied
+
+2
+00:00:15,151 --> 00:00:17,806
+seven step guides as a way to ethical decision making.
+
+3
+00:00:17,806 --> 00:00:21,668
+Along with the way, I hope you consider
+
+4
+00:00:21,668 --> 00:00:23,931
+how you make decision 
+
+5
+00:00:23,931 --> 00:00:27,404
+in some situations.
+
+6
+00:00:27,404 --> 00:00:31,636
+In this course website, you can reach to 
+
+7
+00:00:31,636 --> 00:00:35,416
+some links, and you can see many matters 
+
+8
+00:00:35,416 --> 00:00:38,904
+in newspaper,
+
+9
+00:00:38,904 --> 00:00:45,280
+I hope you to suppose if you are in the situation,
+
+10
+00:00:45,280 --> 00:00:48,320
+what you do with the seven step guides.
+
+11
+00:00:48,320 --> 00:00:51,433
+And I hope you to improve your ability
+
+12
+00:00:51,433 --> 00:00:55,902
+to make decision ethically.
+
+13
+00:00:55,902 --> 00:01:00,231
+We have seen, in this lecture, explosion of space shuttle challenger, 
+
+14
+00:01:00,231 --> 00:01:02,779
+which turned out to be the worst case,
+
+15
+00:01:02,779 --> 00:01:05,802
+and,
+
+16
+00:01:05,802 --> 00:01:10,315
+In this lecture, we are going to see 
+
+17
+00:01:10,315 --> 00:01:12,834
+how good decision makings by engineers
+
+18
+00:01:12,834 --> 00:01:16,377
+affected to some case, 
+
+19
+00:01:16,377 --> 00:01:19,717
+using some examples.
+
+20
+00:01:19,717 --> 00:01:25,119
+In the second half of this lecture,
+
+21
+00:01:25,119 --> 00:01:29,778
+we are going to think about 
+
+22
+00:01:29,778 --> 00:01:35,436
+the new idea of engineer ethics. Mr. Kono,
+
+23
+00:01:35,436 --> 00:01:40,635
+do you know from 1960s to 1970s,
+
+24
+00:01:40,635 --> 00:01:45,795
+what happened in the river, the sea, and the sky 
+
+25
+00:01:45,795 --> 00:01:49,546
+in Japan.
+
+26
+00:01:49,546 --> 00:01:52,103
+What happened, I have no idea because I have not been borned yet at that time.
+
+27
+00:01:52,103 --> 00:01:54,983
+So I don't have any memories about that, but I heard
+
+28
+00:01:54,983 --> 00:01:56,199
+there was heavy air pollusion,
+
+29
+00:01:56,199 --> 00:01:58,155
+and were environmental problems,
+
+30
+00:01:58,155 --> 00:02:00,328
+It was really serious, right.
+
+31
+00:02:00,328 --> 00:02:01,877
+Yes, exactly.
+
+32
+00:02:01,877 --> 00:02:04,779
+I was also still small child,
+
+33
+00:02:04,779 --> 00:02:08,152
+like when I was a student,
+
+34
+00:02:08,152 --> 00:02:12,844
+the river was really dirty due to 
+
+35
+00:02:12,844 --> 00:02:15,508
+industrial waste water.
+
+36
+00:02:15,508 --> 00:02:18,572
+smelt stinky, too.
+
+37
+00:02:18,572 --> 00:02:23,073
+Around factories, the area was polluted by sludge.
+
+38
+00:02:23,073 --> 00:02:25,622
+I think you have heard about that,
+
+39
+00:02:25,622 --> 00:02:27,795
+we never tried to swim 
+
+40
+00:02:27,795 --> 00:02:30,476
+in such a situation
+
+41
+00:02:30,476 --> 00:02:33,869
+Moreover, air and atomosphere
+
+42
+00:02:33,869 --> 00:02:37,839
+were deadly dirty
+
+43
+00:02:37,839 --> 00:02:42,591
+because of smog.
+
+44
+00:02:42,591 --> 00:02:45,473
+It was really bad air pollution, environmental problem
+
+45
+00:02:45,473 --> 00:02:49,251
+like unbelievable level of pollution.
+
+46
+00:02:49,251 --> 00:02:52,562
+1960s to 1970s was the days like that.
+
+47
+00:02:52,562 --> 00:02:55,756
+We will see a case which happened 
+
+48
+00:02:55,756 --> 00:02:57,958
+in those days.
+
+49
+00:02:57,958 --> 00:03:01,700
+Before moving on,
+
+50
+00:03:01,700 --> 00:03:04,034
+I want you to remind that I talk about 
+
+51
+00:03:04,034 --> 00:03:08,578
+the case for educational purpose rather than 
+
+52
+00:03:08,578 --> 00:03:12,432
+historical fact.
+
+53
+00:03:12,432 --> 00:03:15,805
+I just intend to introduce it 
+
+54
+00:03:15,805 --> 00:03:20,157
+to suport the content of my lecture.
+
+55
+00:03:20,157 --> 00:03:23,251
+Do you know Honda,
+
+56
+00:03:23,251 --> 00:03:25,926
+car industrial company, don't you.
+
+57
+00:03:25,926 --> 00:03:27,911
+Of course. (lauging)
+
+58
+00:03:27,911 --> 00:03:31,384
+What image do you have 
+
+59
+00:03:31,384 --> 00:03:34,802
+to Honda, like the company leading 
+
+60
+00:03:34,802 --> 00:03:38,328
+Japanese car industry,
+
+61
+00:03:38,328 --> 00:03:40,540
+right.
+
+62
+00:03:40,540 --> 00:03:43,982
+But, Honda was a small company 
+
+63
+00:03:43,982 --> 00:03:50,449
+compared with other previous companies
+
+64
+00:03:50,449 --> 00:03:52,670
+such as Nissan and Toyota.
+
+65
+00:03:52,670 --> 00:03:56,643
+The reason Honda developed from Japanese small company
+
+66
+00:03:56,643 --> 00:04:00,598
+to the worldwide company because of  
+
+67
+00:04:00,598 --> 00:04:05,066
+development of engine, 
+
+68
+00:04:05,066 --> 00:04:08,375
+we will see that here.
+
+69
+00:04:08,375 --> 00:04:11,354
+Let's see the first slide.
+
+70
+00:04:11,354 --> 00:04:15,230
+Honda motors, we call it Honda here,
+
+71
+00:04:15,230 --> 00:04:21,503
+This is the company founded 
+
+72
+00:04:21,503 --> 00:04:25,587
+by Soichiro Honda,
+
+73
+00:04:25,587 --> 00:04:28,370
+we call him Mr. Honda or Soichiro here,
+
+74
+00:04:28,370 --> 00:04:34,225
+in 1984.
+
+75
+00:04:34,225 --> 00:04:37,841
+He sticked to be in front line,
+
+76
+00:04:37,841 --> 00:04:41,707
+he leaded technical teams.
+
+77
+00:04:41,707 --> 00:04:45,960
+Takeo Fujisawa, Mr. Honda's partner, 
+
+78
+00:04:45,960 --> 00:04:50,504
+worked for management.
+
+79
+00:04:50,504 --> 00:04:56,535
+When the company was founded, it was really small 
+
+80
+00:04:56,535 --> 00:05:00,126
+and they made motorbicycles.
+
+81
+00:05:00,126 --> 00:05:07,204
+and then the company would develop 
+
+82
+00:05:07,204 --> 00:05:09,642
+to the top company in Japan, as you know.
+
+83
+00:05:09,642 --> 00:05:13,735
+I will introduce here low pollution engine,
+
+84
+00:05:13,735 --> 00:05:17,724
+called CVCC,
+
+85
+00:05:17,724 --> 00:05:23,001
+Honda is working on.
+
+86
+00:05:23,001 --> 00:05:30,276
+Today, worldwide companies work on CSR,
+
+87
+00:05:30,276 --> 00:05:35,022
+which is their social responsibilities, 
+
+88
+00:05:35,022 --> 00:05:39,162
+admitting  environment value is social manner.
+
+89
+00:05:39,162 --> 00:05:43,855
+When Honda was developing as a
+
+90
+00:05:43,855 --> 00:05:47,901
+a maker of motorbicycles,
+
+91
+00:05:47,901 --> 00:05:50,726
+from 1950s to 1960s,
+
+92
+00:05:50,726 --> 00:05:55,408
+it was after world war 2,
+
+93
+00:05:55,408 --> 00:05:58,916
+when Japan was recovering,
+
+94
+00:05:58,916 --> 00:06:02,674
+people sticked to economical development,
+
+95
+00:06:02,674 --> 00:06:07,103
+they ignore pollution
+
+96
+00:06:07,103 --> 00:06:09,642
+to gain economical profit.
+
+97
+00:06:09,642 --> 00:06:13,671
+No one doubt.Honda did not 
+
+98
+00:06:13,671 --> 00:06:16,439
+work on anything special for environment
+
+99
+00:06:16,439 --> 00:06:19,738
+in those days.
+
+100
+00:06:19,738 --> 00:06:25,493
+In those days, Honda thought
+
+101
+00:06:25,493 --> 00:06:28,960
+speed was  the most valuable for motorbicycles and cars.
+
+102
+00:06:28,960 --> 00:06:32,542
+Or their power.
+
+103
+00:06:32,542 --> 00:06:35,439
+So they made vehicles for racings,
+
+104
+00:06:35,439 --> 00:06:39,267
+and sticked to good results in the racings.
+
+105
+00:06:39,267 --> 00:06:43,623
+They won 1st in the world of motorbicycles, 
+
+106
+00:06:43,623 --> 00:06:49,031
+even more, they also tried to win in the world of cars.
+
+107
+00:06:49,031 --> 00:06:52,831
+In the late 1960s, Shizuo Yagi, 
+
+108
+00:06:52,831 --> 00:06:56,143
+he was an engineer of 
+
+109
+00:06:56,143 --> 00:06:57,441
+developing engines,
+
+110
+00:06:57,441 --> 00:07:01,186
+wondered
+
+111
+00:07:01,186 --> 00:07:06,440
+if it is good  for them to think about only 
+
+112
+00:07:06,440 --> 00:07:09,739
+speed.
+
+113
+00:07:09,739 --> 00:07:13,198
+What they should tackle on 
+
+114
+00:07:13,198 --> 00:07:14,674
+other than speed.
+
+115
+00:07:14,674 --> 00:07:17,812
+Then,
+
+116
+00:07:17,812 --> 00:07:22,080
+he read an artcle about air pollution caused by 
+
+117
+00:07:22,080 --> 00:07:26,033
+gas by chance.
+
+118
+00:07:26,033 --> 00:07:29,930
+And he thought
+
+119
+00:07:29,930 --> 00:07:34,720
+This was it, this was the thing 
+
+120
+00:07:34,720 --> 00:07:37,658
+they should tackle on next.
+
+121
+00:07:37,658 --> 00:07:43,408
+He started studying about it.
+
+122
+00:07:43,408 --> 00:07:47,706
+In those days, the problem of exaust emission of cars
+
+123
+00:07:47,706 --> 00:07:51,012
+were, to what extent, recognized in Japan.
+
+124
+00:07:51,012 --> 00:07:54,088
+It was just beginning
+
+125
+00:07:54,088 --> 00:07:57,212
+to work on the pollution.
+
+126
+00:07:57,212 --> 00:08:01,464
+When Mr. Yagi started working for the problem, 
+
+127
+00:08:01,464 --> 00:08:06,359
+there were no devices to measure 
+
+128
+00:08:06,359 --> 00:08:08,615
+toxic substance in the air.
+
+129
+00:08:08,615 --> 00:08:10,640
+I see (laughing)
+
+130
+00:08:10,640 --> 00:08:13,869
+I' am serious, so 
+
+131
+00:08:13,869 --> 00:08:17,959
+Mr. Yagi had to invent the device 
+
+132
+00:08:17,959 --> 00:08:21,303
+from the scratch by hiself.
+
+133
+00:08:21,303 --> 00:08:25,363
+Then he made the device, and 
+
+134
+00:08:25,363 --> 00:08:30,471
+investigated exausted gas of their cars.
+
+135
+00:08:30,471 --> 00:08:36,263
+They were so surprised.
+
+136
+00:08:36,263 --> 00:08:39,787
+Because it turned out much toxic gas
+
+137
+00:08:39,787 --> 00:08:45,548
+was in their exausted gas.
+
+138
+00:08:45,548 --> 00:08:52,118
+The device they made notify Mr.Yagi that,
+
+139
+00:08:52,118 --> 00:08:54,298
+their car,
+
+140
+00:08:54,298 --> 00:08:57,742
+the cars they made produced 
+
+141
+00:08:57,742 --> 00:09:03,099
+much toxic gas, 
+
+142
+00:09:03,099 --> 00:09:07,450
+He was so shocked.
+
+143
+00:09:07,450 --> 00:09:10,894
+To solve air pollution
+
+144
+00:09:10,894 --> 00:09:16,262
+was really important task for engineers,
+
+145
+00:09:16,262 --> 00:09:21,479
+He realized that.

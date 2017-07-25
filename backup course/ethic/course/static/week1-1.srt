@@ -1,0 +1,388 @@
+1
+00:00:12,272 --> 00:00:14,664
+This course is on
+
+2
+00:00:14,664 --> 00:00:17,951
+Science and Engineering Ethics.
+
+3
+00:00:17,951 --> 00:00:21,337
+Mr.Kono, first, I would like you to
+
+4
+00:00:21,337 --> 00:00:23,732
+think about this example.
+
+5
+00:00:23,732 --> 00:00:26,315
+Mr. Kono, in country A,
+
+6
+00:00:26,315 --> 00:00:32,826
+assume you are working as an engineer
+
+7
+00:00:32,826 --> 00:00:35,912
+at a company and have been appointed to oversee the structural design
+
+8
+00:00:35,912 --> 00:00:39,997
+of a new high-rise building in the heart of the capital city.
+
+9
+00:00:39,997 --> 00:00:46,976
+The current Building Standards Act of Country A
+
+10
+00:00:46,976 --> 00:00:50,957
+only requires you to consider
+
+11
+00:00:50,957 --> 00:00:54,844
+wind hitting (load) the front of the building.
+
+12
+00:00:54,844 --> 00:00:58,036
+Your team assured you that the structural design
+
+13
+00:00:58,036 --> 00:01:03,010
+would satisfy the building standards.
+
+14
+00:01:03,010 --> 00:01:06,602
+At the same time, the client was also satisfied.
+
+15
+00:01:06,602 --> 00:01:09,692
+Now, you returned back to your country,
+
+16
+00:01:09,692 --> 00:01:12,181
+when the construction was just about to begin,
+
+17
+00:01:12,181 --> 00:01:15,668
+an extremely rare, once-in a thousand years gigantic typhoon is approaching
+
+18
+00:01:15,668 --> 00:01:18,251
+which is a very rare occurrence in Country A.
+
+19
+00:01:18,251 --> 00:01:23,934
+But this occurrence was being taken into account.
+
+20
+00:01:23,934 --> 00:01:28,314
+Specifically, you already calculated the maximum wind speed of a typhoon in that category
+
+21
+00:01:28,314 --> 00:01:32,405
+that would hit the building.
+
+22
+00:01:32,405 --> 00:01:37,083
+Therefore, you knew that there wouldn't be any problem
+
+23
+00:01:37,083 --> 00:01:39,173
+if it hit the front of the building.
+
+24
+00:01:39,173 --> 00:01:43,157
+However, you realized that,
+
+25
+00:01:43,157 --> 00:01:45,251
+if the wind hit the building from another angle,
+
+26
+00:01:45,251 --> 00:01:48,341
+it is likely that the building would collapse.
+
+27
+00:01:48,341 --> 00:01:51,827
+So, you inform your boss, and explain that
+
+28
+00:01:51,827 --> 00:01:56,604
+the structural design plans need to be amended.
+
+29
+00:01:56,604 --> 00:02:02,781
+However, your boss responds in the following way:
+
+30
+00:02:02,781 --> 00:02:05,173
+The current design fulfils
+
+31
+00:02:05,173 --> 00:02:07,356
+the standards required by the laws of Country A.
+
+32
+00:02:07,356 --> 00:02:10,146
+It's also not necessary to change the design
+
+33
+00:02:10,146 --> 00:02:13,734
+for something that has a low probability of happening,
+
+34
+00:02:13,734 --> 00:02:16,421
+such as a once in a thousand years incident.
+
+35
+00:02:16,421 --> 00:02:20,712
+He really won't listen to your proposal.
+
+36
+00:02:20,712 --> 00:02:23,093
+If you were in this situation, Mr. Kono, what would you do?
+
+37
+00:02:23,093 --> 00:02:25,283
+Well, that's quite difficult...
+
+38
+00:02:25,283 --> 00:02:26,980
+Indeed, it is.
+
+39
+00:02:26,980 --> 00:02:28,877
+In such a situation,
+
+40
+00:02:28,877 --> 00:02:31,762
+you probably wouldn't know what to do or think.
+
+41
+00:02:31,762 --> 00:02:34,450
+As everybody knows,
+
+42
+00:02:34,450 --> 00:02:39,235
+in 2011 Tohoku experienced a large earthquake and tsunami
+
+43
+00:02:39,235 --> 00:02:42,621
+on March 11th, 2011.
+
+44
+00:02:42,621 --> 00:02:49,299
+The Fukushima Daiichi Nuclear Power Plant was
+
+45
+00:02:49,299 --> 00:02:52,482
+devastated by damage caused by flooding
+
+46
+00:02:52,482 --> 00:02:56,667
+as a result of the tsunami that resulted from the major earthquake.
+
+47
+00:02:56,667 --> 00:02:59,563
+The plant lost all its electrical power,
+
+48
+00:02:59,563 --> 00:03:02,547
+a severe accident occurred due to the
+
+49
+00:03:02,547 --> 00:03:07,933
+inability to cool down the nuclear reactor.
+
+50
+00:03:07,933 --> 00:03:12,416
+But actually, the closest power plant
+
+51
+00:03:12,416 --> 00:03:14,110
+to the epicenter of the earthquake
+
+52
+00:03:14,110 --> 00:03:17,798
+was the Onagawa Nuclear Power Plant.
+
+53
+00:03:17,798 --> 00:03:19,885
+Surprisingly, at the Onagawa Nuclear Power Plant
+
+54
+00:03:19,885 --> 00:03:24,471
+it was designed and built to take into account a rare event,
+
+55
+00:03:24,471 --> 00:03:26,160
+as a pre-requisite.
+
+56
+00:03:26,160 --> 00:03:28,253
+Tsunami countermeasures were considered as the most important matter
+
+57
+00:03:28,253 --> 00:03:33,336
+right from the beginning.
+
+58
+00:03:33,336 --> 00:03:36,919
+This was decided before building began.
+
+59
+00:03:36,919 --> 00:03:40,301
+Although for buildings in the 1970s,
+
+60
+00:03:40,301 --> 00:03:43,989
+the expected height of a tsunami
+
+61
+00:03:43,989 --> 00:03:46,981
+was 3 meters.
+
+62
+00:03:46,981 --> 00:03:49,473
+Two years prior, in 1968,
+
+63
+00:03:49,473 --> 00:03:54,754
+Tohoku electric power plant established a coastal research facility.
+
+64
+00:03:54,754 --> 00:03:58,241
+Due to the information they were receiving at that time,
+
+65
+00:03:58,241 --> 00:04:01,833
+the facility was built on ground 14.8 meters higher
+
+66
+00:04:01,833 --> 00:04:06,416
+than standard recommendations.
+
+67
+00:04:06,416 --> 00:04:09,605
+They took the decision to build it 15 meters higher
+
+68
+00:04:09,605 --> 00:04:11,701
+due to the importance of facility.
+
+69
+00:04:11,701 --> 00:04:15,077
+The reason for this extraordinary decision
+
+70
+00:04:15,077 --> 00:04:18,767
+was due to a former vice president of Tohoku electric power plant.
+
+71
+00:04:18,767 --> 00:04:22,360
+At that time, there was the Central Research Institute of Electric Power Industry,
+
+72
+00:04:22,360 --> 00:04:25,472
+whose director, Hirai Yanosuke,
+
+73
+00:04:25,472 --> 00:04:28,356
+was the head of the technical research institute.
+
+74
+00:04:28,356 --> 00:04:34,235
+He investigated the Sanriku earthquake of 869 AD,
+
+75
+00:04:34,235 --> 00:04:36,727
+which is said to have a magnitude of 8.7 or more,
+
+76
+00:04:36,727 --> 00:04:40,214
+with a tsunami accompanying it.
+
+77
+00:04:40,214 --> 00:04:44,503
+He argued that the provisions should be made
+
+78
+00:04:44,503 --> 00:04:46,896
+for a tsunami of this same scale.
+
+79
+00:04:46,896 --> 00:04:49,782
+At that time, most people said that it was unnecessary
+
+80
+00:04:49,782 --> 00:04:54,069
+to think about establishing a site at such a height.
+
+81
+00:04:54,069 --> 00:04:56,558
+Thanks to Hirai's excellent foresight,
+
+82
+00:04:56,558 --> 00:05:00,743
+the three nuclear reactors of the Onagawa nuclear power plant
+
+83
+00:05:00,743 --> 00:05:07,721
+were able to be shut down normally, even after the earthquake occurred.
+
+84
+00:05:07,721 --> 00:05:10,608
+Fortunately, because there was also no radiation leakage,
+
+85
+00:05:10,608 --> 00:05:15,092
+Hundreds of people at the facility
+
+86
+00:05:15,092 --> 00:05:17,384
+were able to be safely evacuated.
+
+87
+00:05:17,384 --> 00:05:19,775
+The damage that occurred at the Onagawa nuclear power plant was so small
+
+88
+00:05:19,775 --> 00:05:25,961
+which surprised many nuclear power experts around the world.
+
+89
+00:05:25,961 --> 00:05:32,935
+This was accomplished thanks to the decision-making of Hirai.
+
+90
+00:05:32,935 --> 00:05:38,417
+He made the decision and put into action
+
+91
+00:05:38,417 --> 00:05:42,207
+measures such as to prepare for a once in a thousand years situation.
+
+92
+00:05:42,207 --> 00:05:48,385
+While thinking about Engineering Ethics,
+
+93
+00:05:48,385 --> 00:05:51,671
+This is a perfect example of incredibly good decision making
+
+94
+00:05:51,671 --> 00:05:55,361
+and what can come as a result of that.
+
+95
+00:05:55,361 --> 00:05:59,246
+I think that this is an excellent example
+
+96
+00:05:59,246 --> 00:06:01,534
+which show the positive results.
+
+97
+00:06:01,534 --> 00:06:02,509
+Indeed.
+

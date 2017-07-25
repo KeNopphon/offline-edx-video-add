@@ -1,0 +1,13 @@
+<problem display_name="コズミック・カレンダー②" markdown="コズミック・カレンダーについて、100年は約何秒でしょう。&#10;||コズミック・カレンダーでは、1秒が約475年である。||&#10;&#10;(x) 約0.25秒&#10;( ) 約2.5秒&#10;( ) 約25秒&#10;&#10;&#10;&#10;">
+  <multiplechoiceresponse>
+    <p>コズミック・カレンダーについて、100年は約何秒でしょう。</p>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">約0.25秒</choice>
+      <choice correct="false">約2.5秒</choice>
+      <choice correct="false">約25秒</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <demandhint>
+    <hint>コズミック・カレンダーでは、1秒が約475年である。</hint>
+  </demandhint>
+</problem>

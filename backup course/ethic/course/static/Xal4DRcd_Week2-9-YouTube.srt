@@ -1,0 +1,632 @@
+1
+00:00:03,003 --> 00:00:06,006
+The Stakeholder
+
+2
+00:00:12,012 --> 00:00:15,015
+In the following part,
+we will examine
+
+3
+00:00:15,015 --> 00:00:18,018
+the stakeholder in this case
+study of Challenger disaster.
+
+4
+00:00:18,018 --> 00:00:21,021
+In his interview,
+
+5
+00:00:21,021 --> 00:00:24,024
+Mr. Boisjoly stressed
+repeatedly that
+
+6
+00:00:24,024 --> 00:00:27,027
+safety is far more
+important for engineers
+
+7
+00:00:27,027 --> 00:00:30,030
+than their belonging
+corporations,
+
+8
+00:00:30,030 --> 00:00:33,033
+or even himself.
+
+9
+00:00:39,039 --> 00:00:42,042
+Indeed, many ethical
+mission statements
+
+10
+00:00:42,042 --> 00:00:45,045
+of scientific societies
+and associations,
+
+11
+00:00:45,045 --> 00:00:48,048
+which write the important
+value for engineers,
+
+12
+00:00:48,048 --> 00:00:51,051
+clearly state that
+
+13
+00:00:51,051 --> 00:00:54,054
+engineers must place
+the top priority
+
+14
+00:00:54,054 --> 00:00:57,057
+on the value of
+public safety,
+
+15
+00:00:57,057 --> 00:00:59,993
+health, and welfare.
+
+16
+00:01:05,999 --> 00:01:09,002
+In ethical policies, it is
+stipulated for example,
+
+17
+00:01:09,002 --> 00:01:12,005
+that an engineer should take
+responsibility for the
+credibility
+
+18
+00:01:12,005 --> 00:01:15,008
+of the products'safety
+he/she developed.
+
+19
+00:01:15,008 --> 00:01:18,011
+In this regard,
+
+20
+00:01:18,011 --> 00:01:21,014
+Mr. Boisjoly's strong
+opposition to launch
+
+21
+00:01:21,014 --> 00:01:24,017
+was following the engineer's
+ethics and policy.
+
+22
+00:01:27,020 --> 00:01:30,023
+At the same time, however,
+
+23
+00:01:30,023 --> 00:01:33,026
+the ethical statement
+also requires
+
+24
+00:01:33,026 --> 00:01:36,029
+allegiance of engineers
+
+25
+00:01:36,029 --> 00:01:39,032
+to their employers
+and clients.
+
+26
+00:01:39,032 --> 00:01:42,035
+In the case of Challenger,
+
+27
+00:01:42,035 --> 00:01:45,038
+the employer was
+Morton-Thiokol Inc.
+
+28
+00:01:45,038 --> 00:01:48,041
+and the client was NASA.
+
+29
+00:01:51,044 --> 00:01:54,047
+Therefore, it was also
+Mr. Boisjoly's obligation
+
+30
+00:01:54,047 --> 00:01:57,050
+to avoid conflict with his
+employer and client,
+
+31
+00:01:57,050 --> 00:01:59,987
+and follow their directions.
+
+32
+00:01:59,987 --> 00:02:02,990
+Now, how do you judge
+
+33
+00:02:02,990 --> 00:02:05,993
+when such a conflict
+between values arises?
+
+34
+00:02:08,996 --> 00:02:11,999
+We will examine
+
+35
+00:02:11,999 --> 00:02:15,002
+the ethical
+decision-making process
+
+36
+00:02:15,002 --> 00:02:18,005
+to the detail in
+the lecture 3.
+
+37
+00:02:18,005 --> 00:02:21,008
+For now, let me point out a
+few examples.
+
+38
+00:02:27,014 --> 00:02:30,017
+What should engineers do
+
+39
+00:02:30,017 --> 00:02:33,020
+to make the best action
+
+40
+00:02:33,020 --> 00:02:36,023
+when you confront with
+
+41
+00:02:36,023 --> 00:02:39,026
+various ethical problems?
+
+42
+00:02:39,026 --> 00:02:42,029
+In the ethical
+decision-making process,
+
+43
+00:02:42,029 --> 00:02:45,032
+it is essential for
+engineers to consider
+
+44
+00:02:45,032 --> 00:02:48,035
+who would be affected
+
+45
+00:02:48,035 --> 00:02:51,038
+by your decision and
+conducts.
+
+46
+00:02:51,038 --> 00:02:54,041
+To which extend you
+could recognize
+
+47
+00:02:54,041 --> 00:02:57,044
+potential organizations
+and events
+
+48
+00:02:57,044 --> 00:02:59,980
+that might be influenced by
+your ethical decision,
+
+49
+00:02:59,980 --> 00:03:02,983
+is highly important.
+
+50
+00:03:02,983 --> 00:03:05,986
+Generally,
+stakeholders include,
+
+51
+00:03:05,986 --> 00:03:08,989
+for example, yourself,
+your family,
+
+52
+00:03:08,989 --> 00:03:11,992
+users, organizations
+you belong to,
+
+53
+00:03:11,992 --> 00:03:14,995
+such as corporation
+
+54
+00:03:14,995 --> 00:03:17,998
+or a research institute,
+
+55
+00:03:17,998 --> 00:03:21,001
+your colleagues and
+their families,
+
+56
+00:03:27,007 --> 00:03:30,010
+outside corporations in contract
+with your organizations,
+
+57
+00:03:30,010 --> 00:03:33,013
+such as subcontractors
+and suppliers
+
+58
+00:03:33,013 --> 00:03:36,016
+people belong to these
+corporations,
+
+59
+00:03:39,019 --> 00:03:42,022
+the government and its
+ministries and other agencies,
+
+60
+00:03:45,025 --> 00:03:48,028
+municipalities and
+local residents,
+
+61
+00:03:48,028 --> 00:03:51,031
+related scientific
+associations, and mass-media,
+
+62
+00:03:51,031 --> 00:03:54,034
+these are all stakeholders.
+
+63
+00:03:54,034 --> 00:03:57,037
+Thus, these persons and
+organizations,
+
+64
+00:03:57,037 --> 00:03:59,973
+who may influence your
+decision-making,
+
+65
+00:03:59,973 --> 00:04:02,976
+as well as those who may
+be influenced by
+
+66
+00:04:02,976 --> 00:04:05,979
+your decision-making
+and conducts,
+
+67
+00:04:05,979 --> 00:04:08,982
+directly or indirectly,
+
+68
+00:04:08,982 --> 00:04:11,985
+are called 'stakeholder'.
+
+69
+00:04:11,985 --> 00:04:14,988
+'Stakeholder' is a
+significant notion
+
+70
+00:04:14,988 --> 00:04:17,991
+of engineer's ethics.
+
+71
+00:04:17,991 --> 00:04:20,994
+In Japanese, stakeholder is
+
+72
+00:04:20,994 --> 00:04:23,997
+often translated as
+
+73
+00:04:23,997 --> 00:04:27,000
+'interested parties
+and persons'.
+
+74
+00:04:27,000 --> 00:04:30,003
+You might think
+
+75
+00:04:30,003 --> 00:04:33,006
+this means
+financial interest,
+
+76
+00:04:33,006 --> 00:04:36,009
+but stakeholders are
+not limited to
+
+77
+00:04:36,009 --> 00:04:39,012
+financial profit and loss.
+
+78
+00:04:45,018 --> 00:04:48,021
+This may lead
+misunderstandings of
+
+79
+00:04:48,021 --> 00:04:51,024
+the notion and narrow
+our discussion.
+
+80
+00:04:51,024 --> 00:04:54,027
+In this course, therefore,
+
+81
+00:04:54,027 --> 00:04:57,030
+we will use the
+English word,
+
+82
+00:04:57,030 --> 00:04:59,966
+'stakeholder'.
+
+83
+00:05:08,975 --> 00:05:11,978
+In short, 'stakeholder'
+should be defined as
+
+84
+00:05:11,978 --> 00:05:14,981
+someone/something who
+may influence,
+
+85
+00:05:14,981 --> 00:05:17,984
+directly or indirectly,
+
+86
+00:05:17,984 --> 00:05:20,987
+on your ethical
+decision-making and conducts
+
+87
+00:05:20,987 --> 00:05:23,990
+as well as those
+
+88
+00:05:23,990 --> 00:05:26,993
+who may be affected
+
+89
+00:05:26,993 --> 00:05:29,996
+by the decision and
+conducts.
+
+90
+00:05:36,002 --> 00:05:39,005
+How can we distinguish
+and specify
+
+91
+00:05:39,005 --> 00:05:42,008
+all the stakeholders we should
+consider appropriately?
+
+92
+00:05:45,011 --> 00:05:48,014
+It's a good question.
+
+93
+00:05:48,014 --> 00:05:51,017
+There are several points
+
+94
+00:05:51,017 --> 00:05:54,020
+you should consider.
+
+95
+00:05:54,020 --> 00:05:57,023
+First, you should note that
+
+96
+00:05:57,023 --> 00:05:59,960
+there are strong stakeholders
+and weak stakeholders.
+
+97
+00:05:59,960 --> 00:06:02,963
+For instance, for engineers,
+
+98
+00:06:02,963 --> 00:06:05,966
+product users and
+clients are
+
+99
+00:06:05,966 --> 00:06:08,969
+important stakeholders.
+
+100
+00:06:08,969 --> 00:06:11,972
+They are weak stakeholders,
+
+101
+00:06:11,972 --> 00:06:14,975
+as they depend on
+engineers and makers
+
+102
+00:06:14,975 --> 00:06:17,978
+in terms of the safety
+
+103
+00:06:17,978 --> 00:06:20,981
+of the products they use.
+
+104
+00:06:26,987 --> 00:06:29,990
+An example: engineers who design
+aircrafts and passengers.
+
+105
+00:06:35,996 --> 00:06:38,999
+To understand to whom
+
+106
+00:06:38,999 --> 00:06:42,002
+you are responsible for,
+
+107
+00:06:42,002 --> 00:06:45,005
+it is important for
+engineers
+
+108
+00:06:45,005 --> 00:06:48,008
+to consider weak
+stakeholders.
+
+109
+00:06:51,011 --> 00:06:54,014
+Secondly, you
+should note that
+
+110
+00:06:54,014 --> 00:06:57,017
+there are visible and
+invisible stakeholders.
+
+111
+00:07:02,956 --> 00:07:05,959
+For instance, families
+of users are
+
+112
+00:07:05,959 --> 00:07:08,962
+relatively invisible
+stakeholders,
+
+113
+00:07:08,962 --> 00:07:11,965
+however, they should be
+considered as well.
+
+114
+00:07:17,971 --> 00:07:20,974
+Here's another example:
+
+115
+00:07:20,974 --> 00:07:23,977
+the health hazard
+caused by asbestos.
+
+116
+00:07:23,977 --> 00:07:26,980
+In this case, manufacture
+of building materials
+
+117
+00:07:26,980 --> 00:07:29,983
+should consider stakeholders
+beyond physical
+
+118
+00:07:29,983 --> 00:07:32,986
+or temporal proximity.
+
+119
+00:07:32,986 --> 00:07:35,989
+People living in
+remote areas
+
+120
+00:07:35,989 --> 00:07:38,992
+and future users are
+
+121
+00:07:38,992 --> 00:07:41,995
+both your stakeholder.
+
+122
+00:07:44,998 --> 00:07:48,001
+By becoming aware of
+the existence
+
+123
+00:07:48,001 --> 00:07:51,004
+of invisible stakeholders,
+
+124
+00:07:51,004 --> 00:07:54,007
+engineers are able to
+
+125
+00:07:54,007 --> 00:07:57,010
+recognize the stakeholders
+
+126
+00:07:57,010 --> 00:07:59,946
+properly and thoroughly.
+
+127
+00:08:05,952 --> 00:08:08,955
+When confronted with
+a trouble,
+
+128
+00:08:08,955 --> 00:08:11,958
+we tend to be affected by
+immediate problems.
+
+129
+00:08:11,958 --> 00:08:14,961
+We then tend to
+consider only
+
+130
+00:08:14,961 --> 00:08:17,964
+visible, strong stakeholders
+
+131
+00:08:17,964 --> 00:08:20,967
+such as those in your
+own organization.
+
+132
+00:08:23,970 --> 00:08:26,973
+This narrows your
+perspective
+
+133
+00:08:26,973 --> 00:08:29,976
+and results in your failing
+
+134
+00:08:29,976 --> 00:08:32,979
+to make proper ethical
+decision-making.
+
+135
+00:08:32,979 --> 00:08:35,982
+To avoid this,
+
+136
+00:08:35,982 --> 00:08:38,985
+it is essential for you
+
+137
+00:08:38,985 --> 00:08:41,988
+to carefully consider weak,
+
+138
+00:08:41,988 --> 00:08:44,991
+invisible stakeholders.
+

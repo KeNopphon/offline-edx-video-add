@@ -1,0 +1,11 @@
+1
+00:00:00,499 --> 00:00:03,300
+SPEAKER: Welcome to StudioX. In this course,
+
+2
+00:00:03,300 --> 00:00:07,230
+we will walk you through how to use Studio to create a course on edX.
+
+3
+00:00:07,230 --> 00:00:08,960
+So what is Studio?
