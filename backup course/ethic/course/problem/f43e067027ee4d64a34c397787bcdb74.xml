@@ -1,7 +1,0 @@
-<problem display_name="Quiz2" markdown="札野の原則について、空欄に当てはまる語を入れなさい。&#10;&#10;倫理的意思決定に際しては【　　】、空間、関係性を拡大し、相対化せよ。&#10;&#10;=時間" max_attempts="1" weight="1.0">
-  <stringresponse answer="時間" type="ci">
-    <p>札野の原則について、空欄に当てはまる語を入れなさい。</p>
-    <p>倫理的意思決定に際しては【　　】、空間、関係性を拡大し、相対化せよ。</p>
-    <textline size="20"/>
-  </stringresponse>
-</problem>
